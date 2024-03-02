@@ -1,0 +1,732 @@
+MAPA,Estatus,CVE_ENT,NOM_ENT,NOM_ABR,CVE_MUN,NOM_MUN,CVE_LOC,NOM_LOC,AMBITO,LAT_DECIMAL,LON_DECIMAL,ALTITUD,CVE_CARTA,POB_TOTAL,POB_MASCULINA,POB_FEMENINA,TOTAL DE VIVIENDAS HABITADAS
+90020001,,9,Ciudad de México,CDMX,2,Azcapotzalco,1,Azcapotzalco,U,19.484102,-99.18436,2244,E14A39,432205,204950,227255,134204
+90030001,,9,Ciudad de México,CDMX,3,Coyoacán,1,Coyoacán,U,19.350214,-99.162146,2247,E14A39,614447,289110,325337,191646
+90040001,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,U,19.35735,-99.299792,2780,E14A39,186693,89078,97615,52530
+90040010,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,10,Cruz Blanca,R,19.317784,-99.32401,2985,E14A39,728,366,362,192
+90040020,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,20,San Lorenzo Acopilco,U,19.331004,-99.325681,2937,E14A39,26042,12626,13416,6627
+90040050,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,50,La Venta,R,19.334375,-99.310213,2863,E14A39,486,216,270,124
+90040054,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,54,Puerto las Cruces (Monte las Cruces),R,19.294861,-99.347621,3200,E14A38,1233,585,648,323
+90040055,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,55,Teopazulco,R,19.345926,-99.323115,2941,E14A39,80,40,40,23
+90040056,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,56,Valle de las Monjas,R,19.338563,-99.293242,2666,E14A39,108,61,47,32
+90040057,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,57,Prolongación Constitución,R,19.352651,-99.326671,2712,E14A39,131,66,65,32
+90040058,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,58,Paraje Río Borracho,R,19.349437,-99.328236,2696,E14A39,80,36,44,21
+90040059,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,59,El Zarco,R,19.293255,-99.354391,3141,E14A38,24,12,12,9
+90040060,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,60,La Bolsa (El Encinal),R,19.339002,-99.301741,2783,E14A39,9,*,*,2
+90040062,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,62,Los Campesinos [Rancho],R,19.305,-99.344662,3056,E14A38,29,15,14,5
+90040063,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,63,Santa Rosa,R,19.323321,-99.29508,2860,E14A39,818,404,414,204
+90040064,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,64,Paraje Cerro de los Padres,R,19.364182,-99.316977,2846,E14A39,12,*,*,1
+90040066,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,66,Santa Laura [Rancho],R,19.343551,-99.319482,2723,E14A39,38,25,13,14
+90040067,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,67,La Papa [Escuela Niños Héroes],R,19.34522,-99.312826,2853,E14A39,4,*,*,1
+90040068,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,68,Convento del Desierto de los Leones,R,19.313611,-99.310278,2977,E14A39,0,0,0,0
+90040069,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,69,La Troje,R,19.326977,-99.318271,2834,E14A39,0,0,0,0
+90040070,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,70,Punta Galicia,R,19.374896,-99.303373,2538,E14A39,438,231,207,119
+90040071,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,71,Cola de Pato,R,19.30384,-99.339958,3128,E14A38,7,*,*,2
+90040073,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,73,Los Aguacates,R,19.369901,-99.310732,2725,E14A39,514,253,261,129
+90040074,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,74,Punta Ahuatenco,R,19.368029,-99.305801,2560,E14A39,173,99,74,43
+90040075,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,75,Los Laureles [Rancho],R,19.331581,-99.302038,2742,E14A39,5,*,*,2
+90040077,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,77,Coatzehuaya,R,19.350029,-99.325362,2828,E14A39,28,15,13,5
+90040078,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,78,La Loma,R,19.322784,-99.335293,3005,E14A38,4,*,*,1
+90040079,,9,Ciudad de México,CDMX,4,Cuajimalpa de Morelos,79,Llanito Redondo,R,19.322508,-99.334536,2967,E14A38,2,*,*,1
+90050001,,9,Ciudad de México,CDMX,5,Gustavo A. Madero,1,Gustavo A. Madero,U,19.482945,-99.113471,2229,E14A39,1173351,563874,609477,340301
+90060001,,9,Ciudad de México,CDMX,6,Iztacalco,1,Iztacalco,U,19.395901,-99.097612,2233,E14A39,404695,192352,212343,117740
+90070001,,9,Ciudad de México,CDMX,7,Iztapalapa,1,Iztapalapa,U,19.359004,-99.092622,2242,E14A39,1835486,887651,947835,504456
+90080001,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,1,La Magdalena Contreras,U,19.304898,-99.241515,2520,E14A39,246428,117661,128767,67772
+90080066,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,66,Manantiales de Monte Alegre,R,19.22968,-99.279452,3300,E14A49,0,0,0,0
+90080071,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,71,Ejido de San Nicolás Totolapan,R,19.253965,-99.245446,2914,E14A39,15,8,7,6
+90080075,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,75,Segundo Dinamo,R,19.284332,-99.274487,2758,E14A39,10,9,1,6
+90080079,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,79,Las Golondrinas,R,19.266454,-99.249226,2826,E14A39,4,*,*,1
+90080081,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,81,Primer Dinamo,R,19.288889,-99.264444,2671,E14A39,0,0,0,0
+90080083,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,83,El Gavillero,R,19.287025,-99.24912,2608,E14A39,452,218,234,116
+90080085,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,85,El Ocotal (La Carbonera),R,19.293854,-99.262611,2726,E14A39,23,12,11,12
+90080086,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,86,Coapanoaya,R,19.286082,-99.269733,2719,E14A39,0,0,0,0
+90080088,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,88,Totolapan,R,19.280696,-99.24602,2620,E14A39,334,170,164,88
+90080089,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,89,Sehuaya,R,19.281683,-99.273724,2801,E14A39,5,*,*,2
+90080090,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,90,Tercer Dinamo,R,19.281389,-99.278409,2805,E14A39,0,0,0,0
+90080092,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,92,Cuarto Dinamo,R,19.266478,-99.29346,3060,E14A39,0,0,0,0
+90080093,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,93,La Bodega,R,19.26687,-99.287408,3036,E14A39,0,0,0,0
+90080094,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,94,La Campana [Rancho],R,19.248999,-99.247901,2919,E14A49,5,*,*,2
+90080095,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,95,La Escondida,R,19.247384,-99.254385,3019,E14A49,0,0,0,0
+90080096,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,96,La Polea,R,19.229237,-99.267239,3273,E14A49,1,*,*,1
+90080098,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,98,Valle del Tezontle,R,19.215833,-99.278333,3428,E14A49,11,*,*,1
+90080099,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,99,Albergue Alpino Ajusco,R,19.227123,-99.266912,3297,E14A49,1,*,*,1
+90080100,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,100,Los Cedros,R,19.27975,-99.250407,2649,E14A39,5,*,*,2
+90080101,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,101,Ocotenco (La Loma Cazulco),R,19.292886,-99.254414,2657,E14A39,15,11,4,14
+90080102,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,102,El Tejocote,R,19.264056,-99.246707,2775,E14A39,1,*,*,1
+90080103,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,103,Paraje Ayla,R,19.260013,-99.301241,3212,E14A39,0,0,0,0
+90080104,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,104,Rancho Viejo,R,19.25824,-99.25032,2842,E14A39,67,35,32,14
+90080106,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,106,Prolongación Ermitaño,R,19.300859,-99.267322,2744,E14A39,37,20,17,9
+90080107,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,107,Llanos de Acopilco,R,19.274682,-99.280073,3062,E14A39,2,*,*,2
+90080108,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,108,Rincón Eslava,R,19.289692,-99.251075,2555,E14A39,51,30,21,13
+90080109,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,109,La Cañada [Parque],R,19.298428,-99.252909,2561,E14A39,1,*,*,1
+90080112,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,112,Chichicazpatl,R,19.275787,-99.249984,2596,E14A39,119,68,51,34
+90080113,,9,Ciudad de México,CDMX,8,La Magdalena Contreras,113,Meyuca,R,19.299906,-99.266192,2800,E14A39,6,*,*,2
+90090001,,9,Ciudad de México,CDMX,9,Milpa Alta,1,Villa Milpa Alta,U,19.191249,-99.023371,2429,E14A49,18213,8863,9350,4622
+90090011,,9,Ciudad de México,CDMX,9,Milpa Alta,11,San Antonio Tecómitl,U,19.217537,-98.993717,2258,E14B41,27768,13478,14290,7221
+90090015,,9,Ciudad de México,CDMX,9,Milpa Alta,15,San Bartolomé Xicomulco,U,19.206759,-99.067892,2592,E14A49,4933,2351,2582,1331
+90090017,,9,Ciudad de México,CDMX,9,Milpa Alta,17,San Francisco Tecoxpa,U,19.199448,-99.006287,2309,E14A49,13919,6806,7113,3613
+90090024,,9,Ciudad de México,CDMX,9,Milpa Alta,24,San Pablo Oztotepec,U,19.187285,-99.073149,2716,E14A49,17715,8511,9204,4488
+90090029,,9,Ciudad de México,CDMX,9,Milpa Alta,29,San Pedro Atocpan,U,19.201637,-99.049411,2445,E14A49,9234,4529,4705,2342
+90090033,,9,Ciudad de México,CDMX,9,Milpa Alta,33,San Salvador Cuauhtenco,U,19.191988,-99.089954,2753,E14A49,16847,8182,8665,4233
+90090036,,9,Ciudad de México,CDMX,9,Milpa Alta,36,Santa Ana Tlacotenco,U,19.17591,-98.997801,2613,E14B41,11715,5589,6126,3030
+90090037,,9,Ciudad de México,CDMX,9,Milpa Alta,37,Cruztitla,R,19.214886,-99.003503,2308,E14A49,1123,563,560,278
+90090039,,9,Ciudad de México,CDMX,9,Milpa Alta,39,Atlimeya,R,19.166865,-99.07272,2913,E14A49,0,0,0,0
+90090045,,9,Ciudad de México,CDMX,9,Milpa Alta,45,Los Pinos (Totulan),R,19.183551,-99.035123,2572,E14A49,57,31,26,17
+90090046,,9,Ciudad de México,CDMX,9,Milpa Alta,46,Xoctonco,R,19.184051,-99.08698,2866,E14A49,394,201,193,107
+90090050,,9,Ciudad de México,CDMX,9,Milpa Alta,50,Cozcatlán,R,19.181181,-99.017673,2539,E14A49,27,10,17,6
+90090052,,9,Ciudad de México,CDMX,9,Milpa Alta,52,La Herradura (Séptima Curva),R,19.18561,-99.051329,2601,E14A49,102,51,51,31
+90090054,,9,Ciudad de México,CDMX,9,Milpa Alta,54,Zangahco,R,19.173942,-99.065664,2807,E14A49,72,38,34,18
+90090056,,9,Ciudad de México,CDMX,9,Milpa Alta,56,Hueycotzingo,R,19.191315,-99.052402,2547,E14A49,110,51,59,25
+90090062,,9,Ciudad de México,CDMX,9,Milpa Alta,62,Melhcalhca,R,19.172526,-99.105423,3057,E14A49,0,0,0,0
+90090066,,9,Ciudad de México,CDMX,9,Milpa Alta,66,Cuauhtec (El Mirador Santa Ana Tlacotenco),R,19.161442,-98.990026,2717,E14B41,16,7,9,3
+90090067,,9,Ciudad de México,CDMX,9,Milpa Alta,67,La Mora,R,19.190063,-99.034836,2517,E14A49,182,96,86,44
+90090068,,9,Ciudad de México,CDMX,9,Milpa Alta,68,Metenco,R,19.204945,-99.08104,2636,E14A49,464,230,234,130
+90090072,,9,Ciudad de México,CDMX,9,Milpa Alta,72,Tamasquititla,R,19.17389,-99.024066,2665,E14A49,11,6,5,4
+90090074,,9,Ciudad de México,CDMX,9,Milpa Alta,74,San Agustín Xolco,R,19.177268,-99.00873,2614,E14A49,38,20,18,9
+90090077,,9,Ciudad de México,CDMX,9,Milpa Alta,77,San Marcos (Tezocotitla),R,19.169584,-99.026133,2739,E14A49,195,89,106,54
+90090081,,9,Ciudad de México,CDMX,9,Milpa Alta,81,Cuyucalco,R,19.183165,-99.059872,2673,E14A49,120,62,58,34
+90090082,,9,Ciudad de México,CDMX,9,Milpa Alta,82,Iztahuaca,R,19.185318,-99.05893,2650,E14A49,84,39,45,22
+90090083,,9,Ciudad de México,CDMX,9,Milpa Alta,83,Tzotzomaco,R,19.19812,-99.039094,2494,E14A49,25,11,14,8
+90090084,,9,Ciudad de México,CDMX,9,Milpa Alta,84,Tlatepexco,R,19.195639,-99.077756,2627,E14A49,156,66,90,40
+90090088,,9,Ciudad de México,CDMX,9,Milpa Alta,88,San Paocotitla,R,19.18658,-99.050935,2591,E14A49,197,113,84,51
+90090090,,9,Ciudad de México,CDMX,9,Milpa Alta,90,Tlacopac,R,19.1728,-99.040778,2720,E14A49,110,53,57,28
+90090092,,9,Ciudad de México,CDMX,9,Milpa Alta,92,Tecolotzitzatzian (Tiapa),R,19.164061,-99.043386,2824,E14A49,15,9,6,5
+90090093,,9,Ciudad de México,CDMX,9,Milpa Alta,93,Tehuitzco,R,19.176792,-99.085516,2955,E14A49,0,0,0,0
+90090095,,9,Ciudad de México,CDMX,9,Milpa Alta,95,Tepetlapa,R,19.185501,-99.009858,2453,E14A49,225,113,112,56
+90090096,,9,Ciudad de México,CDMX,9,Milpa Alta,96,Tequianquiztunco,R,19.166308,-99.072174,2915,E14A49,18,8,10,5
+90090098,,9,Ciudad de México,CDMX,9,Milpa Alta,98,Tetexipezco,R,19.202132,-99.036743,2451,E14A49,35,19,16,9
+90090099,,9,Ciudad de México,CDMX,9,Milpa Alta,99,Tetlicuili (El Encinal),R,19.163474,-98.983293,2692,E14B41,15,10,5,5
+90090100,,9,Ciudad de México,CDMX,9,Milpa Alta,100,Toltecas Parte Alta (Barrio Tenantitla),R,19.219692,-99.030947,2554,E14A49,3,*,*,1
+90090101,,9,Ciudad de México,CDMX,9,Milpa Alta,101,Texcalatlautenco,R,19.201714,-99.058875,2487,E14A49,40,19,21,9
+90090102,,9,Ciudad de México,CDMX,9,Milpa Alta,102,Texcayuca (Ojo de Agua),R,19.158016,-99.146211,2915,E14A49,0,0,0,0
+90090103,,9,Ciudad de México,CDMX,9,Milpa Alta,103,Tezompa,R,19.18886,-99.053001,2575,E14A49,226,105,121,51
+90090104,,9,Ciudad de México,CDMX,9,Milpa Alta,104,Teziuhtepec,R,19.171931,-99.071045,2852,E14A49,138,73,65,34
+90090105,,9,Ciudad de México,CDMX,9,Milpa Alta,105,Tetzumpa,R,19.167838,-99.070328,2890,E14A49,18,9,9,5
+90090109,,9,Ciudad de México,CDMX,9,Milpa Alta,109,Tlaxala,R,19.202795,-99.037415,2446,E14A49,69,38,31,13
+90090110,,9,Ciudad de México,CDMX,9,Milpa Alta,110,Ahuapapatlapa,R,19.17161,-99.045868,2770,E14A49,4,*,*,1
+90090112,,9,Ciudad de México,CDMX,9,Milpa Alta,112,Tetepanco,R,19.205849,-99.054604,2543,E14A49,153,86,67,33
+90090113,,9,Ciudad de México,CDMX,9,Milpa Alta,113,Copexalco,R,19.213945,-99.060959,2575,E14A49,69,30,39,19
+90090115,,9,Ciudad de México,CDMX,9,Milpa Alta,115,San José,R,19.206573,-99.060113,2586,E14A49,313,160,153,88
+90090116,,9,Ciudad de México,CDMX,9,Milpa Alta,116,Hueytepetl (Bugambilias),R,19.189315,-98.99011,2459,E14B41,249,123,126,63
+90090117,,9,Ciudad de México,CDMX,9,Milpa Alta,117,Ocoximalipa,R,19.1739,-99.06929,2830,E14A49,144,72,72,33
+90090120,,9,Ciudad de México,CDMX,9,Milpa Alta,120,Corralixpa,R,19.176445,-99.076564,2857,E14A49,245,127,118,60
+90090124,,9,Ciudad de México,CDMX,9,Milpa Alta,124,El Rancho,R,19.19131,-99.032224,2479,E14A49,12,*,*,2
+90090126,,9,Ciudad de México,CDMX,9,Milpa Alta,126,Coyocalli,R,19.197457,-99.036503,2474,E14A49,44,20,24,10
+90090129,,9,Ciudad de México,CDMX,9,Milpa Alta,129,Tlapalan,R,19.179769,-99.010421,2571,E14A49,36,19,17,9
+90090130,,9,Ciudad de México,CDMX,9,Milpa Alta,130,Retamatitla (Tepehualli),R,19.1768,-99.021313,2614,E14A49,1,*,*,1
+90090131,,9,Ciudad de México,CDMX,9,Milpa Alta,131,Texalco,R,19.192904,-99.03553,2472,E14A49,157,78,79,37
+90090134,,9,Ciudad de México,CDMX,9,Milpa Alta,134,Queapilco,R,19.190231,-99.101044,2779,E14A49,59,31,28,16
+90090135,,9,Ciudad de México,CDMX,9,Milpa Alta,135,Texococlixpa (Rancho Santa Elena),R,19.183347,-99.100331,2878,E14A49,5,*,*,1
+90090138,,9,Ciudad de México,CDMX,9,Milpa Alta,138,Barranca Seca (Pozo Ocho),R,19.207422,-98.997446,2280,E14B41,265,125,140,66
+90090139,,9,Ciudad de México,CDMX,9,Milpa Alta,139,Teatlaco,R,19.190366,-98.991206,2439,E14B41,165,71,94,40
+90090140,,9,Ciudad de México,CDMX,9,Milpa Alta,140,Tlaloxtoc (Ejidos de Tecoxpa),R,19.196752,-98.980547,2334,E14B41,19,8,11,6
+90090141,,9,Ciudad de México,CDMX,9,Milpa Alta,141,Tezquizco,R,19.204729,-99.086021,2630,E14A49,11,7,4,3
+90090142,,9,Ciudad de México,CDMX,9,Milpa Alta,142,Atuzanco,R,19.20912,-99.055309,2554,E14A49,20,10,10,6
+90090147,,9,Ciudad de México,CDMX,9,Milpa Alta,147,El Potrero,R,19.210744,-99.093074,2569,E14A49,23,8,15,8
+90090148,,9,Ciudad de México,CDMX,9,Milpa Alta,148,Jalisco,R,19.199702,-99.035691,2439,E14A49,0,0,0,0
+90090151,,9,Ciudad de México,CDMX,9,Milpa Alta,151,Miquixpa,R,19.187424,-99.100787,2820,E14A49,50,23,27,9
+90090152,,9,Ciudad de México,CDMX,9,Milpa Alta,152,San Lorenzo Tlacoyucan,U,19.176322,-99.031422,2616,E14A49,4288,2102,2186,1112
+90090154,,9,Ciudad de México,CDMX,9,Milpa Alta,154,Rinconada del Teoca,R,19.208951,-99.089361,2602,E14A49,134,67,67,32
+90090155,,9,Ciudad de México,CDMX,9,Milpa Alta,155,Tepexomulco,R,19.204553,-99.056161,2516,E14A49,123,65,58,25
+90090156,,9,Ciudad de México,CDMX,9,Milpa Alta,156,Temoclaluca,R,19.19577,-99.079989,2645,E14A49,32,21,11,9
+90090158,,9,Ciudad de México,CDMX,9,Milpa Alta,158,Malacaxco,R,19.197931,-99.065007,2535,E14A49,314,169,145,75
+90090159,,9,Ciudad de México,CDMX,9,Milpa Alta,159,Cuatlixco,R,19.194846,-99.063764,2543,E14A49,13,5,8,3
+90090161,,9,Ciudad de México,CDMX,9,Milpa Alta,161,Coametzu,R,19.188489,-99.058084,2619,E14A49,302,154,148,72
+90090163,,9,Ciudad de México,CDMX,9,Milpa Alta,163,Cuauhtunco,R,19.217092,-99.045122,2494,E14A49,260,136,124,67
+90090166,,9,Ciudad de México,CDMX,9,Milpa Alta,166,La Era,R,19.216184,-99.036815,2540,E14A49,7,4,3,3
+90090167,,9,Ciudad de México,CDMX,9,Milpa Alta,167,Tepetenco,R,19.204425,-99.037402,2476,E14A49,303,143,160,71
+90090168,,9,Ciudad de México,CDMX,9,Milpa Alta,168,San Isidro Cuatepec,R,19.219037,-99.007713,2378,E14A49,1063,506,557,277
+90090169,,9,Ciudad de México,CDMX,9,Milpa Alta,169,Xaluis,R,19.184978,-99.055288,2621,E14A49,191,102,89,47
+90090171,,9,Ciudad de México,CDMX,9,Milpa Alta,171,Tepetipac,R,19.207048,-98.994404,2280,E14B41,277,125,152,61
+90090172,,9,Ciudad de México,CDMX,9,Milpa Alta,172,Tlatlalahuaya,R,19.183562,-99.054286,2640,E14A49,48,22,26,13
+90090173,,9,Ciudad de México,CDMX,9,Milpa Alta,173,Texunco (Camino Real a Tlaltenami),R,19.179896,-99.061715,2718,E14A49,65,28,37,18
+90090174,,9,Ciudad de México,CDMX,9,Milpa Alta,174,Mecalco (Camino al Mirador),R,19.180852,-99.020207,2522,E14A49,232,114,118,56
+90090176,,9,Ciudad de México,CDMX,9,Milpa Alta,176,Zacatonco,R,19.180971,-99.016638,2540,E14A49,359,182,177,92
+90090178,,9,Ciudad de México,CDMX,9,Milpa Alta,178,Xali,R,19.170222,-99.031517,2726,E14A49,84,44,40,18
+90090179,,9,Ciudad de México,CDMX,9,Milpa Alta,179,Texaxahuacalli,R,19.160198,-99.041181,2869,E14A49,0,0,0,0
+90090185,,9,Ciudad de México,CDMX,9,Milpa Alta,185,Zacazontlipac,R,19.195854,-99.105166,2681,E14A49,363,182,181,110
+90090187,,9,Ciudad de México,CDMX,9,Milpa Alta,187,Santa Catarina (Piedra Blanca),R,19.211234,-99.078642,2620,E14A49,177,90,87,53
+90090188,,9,Ciudad de México,CDMX,9,Milpa Alta,188,Cuauhtetec,R,19.194268,-99.081321,2693,E14A49,270,136,134,72
+90090189,,9,Ciudad de México,CDMX,9,Milpa Alta,189,Huitlalpa,R,19.192523,-99.080407,2700,E14A49,59,24,35,16
+90090191,,9,Ciudad de México,CDMX,9,Milpa Alta,191,Texcolipan,R,19.217532,-99.05927,2561,E14A49,15,7,8,4
+90090192,,9,Ciudad de México,CDMX,9,Milpa Alta,192,Tetzmititla,R,19.207872,-99.056423,2573,E14A49,33,16,17,10
+90090195,,9,Ciudad de México,CDMX,9,Milpa Alta,195,Tlaxiomulco,R,19.191323,-99.038305,2523,E14A49,143,67,76,28
+90090198,,9,Ciudad de México,CDMX,9,Milpa Alta,198,Tecoloxtitla,R,19.181889,-99.012279,2517,E14A49,158,84,74,46
+90090199,,9,Ciudad de México,CDMX,9,Milpa Alta,199,Tapalaco (Amacapultitla),R,19.17032,-99.003041,2709,E14A49,81,43,38,23
+90090200,,9,Ciudad de México,CDMX,9,Milpa Alta,200,Teacalco,R,19.199217,-99.061059,2489,E14A49,25,11,14,5
+90090201,,9,Ciudad de México,CDMX,9,Milpa Alta,201,Iztlalco,R,19.215858,-99.060972,2565,E14A49,0,0,0,0
+90090202,,9,Ciudad de México,CDMX,9,Milpa Alta,202,Cuauhzontlipan,R,19.213716,-99.062397,2583,E14A49,103,56,47,26
+90090203,,9,Ciudad de México,CDMX,9,Milpa Alta,203,Huepaltepec,R,19.212484,-99.073849,2602,E14A49,74,36,38,22
+90090204,,9,Ciudad de México,CDMX,9,Milpa Alta,204,Mecatlán (Rancho el Refugio),R,19.210103,-99.083681,2630,E14A49,61,32,29,16
+90090205,,9,Ciudad de México,CDMX,9,Milpa Alta,205,Tecupilco (Kilómetro 17.5),R,19.218289,-99.050716,2438,E14A49,124,45,79,33
+90090206,,9,Ciudad de México,CDMX,9,Milpa Alta,206,Xaxalpa,R,19.216637,-99.049409,2443,E14A49,141,70,71,40
+90090207,,9,Ciudad de México,CDMX,9,Milpa Alta,207,Xaltepetitla,R,19.215639,-99.043611,2478,E14A49,61,33,28,18
+90090208,,9,Ciudad de México,CDMX,9,Milpa Alta,208,Tetecolok,R,19.212667,-99.054124,2563,E14A49,88,41,47,25
+90090210,,9,Ciudad de México,CDMX,9,Milpa Alta,210,Santa Rosa,R,19.225828,-99.003219,2338,E14A49,187,93,94,44
+90090211,,9,Ciudad de México,CDMX,9,Milpa Alta,211,Olla de Piedra,R,19.224285,-99.003139,2325,E14A49,126,64,62,29
+90090213,,9,Ciudad de México,CDMX,9,Milpa Alta,213,El Zapote (Techultepec),R,19.211291,-99.005283,2321,E14A49,66,34,32,14
+90090214,,9,Ciudad de México,CDMX,9,Milpa Alta,214,Maxulco (Barrio Cruztitla),R,19.209366,-99.003436,2313,E14A49,222,108,114,62
+90090215,,9,Ciudad de México,CDMX,9,Milpa Alta,215,Tecoxpa (El Pirul),R,19.207018,-99.010559,2358,E14A49,11,5,6,4
+90090216,,9,Ciudad de México,CDMX,9,Milpa Alta,216,Santa Martha Cosalan,R,19.203541,-99.023426,2387,E14A49,98,46,52,24
+90090217,,9,Ciudad de México,CDMX,9,Milpa Alta,217,Zacuaztitla,R,19.202915,-98.9829,2302,E14B41,413,215,198,97
+90090218,,9,Ciudad de México,CDMX,9,Milpa Alta,218,Rancho Paraíso Escondido,R,19.204878,-98.987153,2293,E14B41,6,*,*,2
+90090219,,9,Ciudad de México,CDMX,9,Milpa Alta,219,Omaxa,R,19.184651,-99.094279,2855,E14A49,191,92,99,46
+90090222,,9,Ciudad de México,CDMX,9,Milpa Alta,222,Ahuatitla (Ixmatunco),R,19.18498,-99.08204,2801,E14A49,47,19,28,13
+90090223,,9,Ciudad de México,CDMX,9,Milpa Alta,223,Texacazintla (Xacalixpa),R,19.177914,-99.07878,2866,E14A49,111,55,56,29
+90090224,,9,Ciudad de México,CDMX,9,Milpa Alta,224,Chichilesca,R,19.177102,-99.067674,2795,E14A49,207,101,106,49
+90090226,,9,Ciudad de México,CDMX,9,Milpa Alta,226,Calle Capulines,R,19.197777,-99.059221,2504,E14A49,13,8,5,5
+90090227,,9,Ciudad de México,CDMX,9,Milpa Alta,227,Temalacatl,R,19.194742,-99.057572,2535,E14A49,46,23,23,11
+90090228,,9,Ciudad de México,CDMX,9,Milpa Alta,228,Temoayan,R,19.19656,-99.056808,2512,E14A49,12,8,4,3
+90090229,,9,Ciudad de México,CDMX,9,Milpa Alta,229,Prolongación Xolotl,R,19.193232,-99.055784,2549,E14A49,20,13,7,4
+90090230,,9,Ciudad de México,CDMX,9,Milpa Alta,230,Anayeli,R,19.193657,-99.054569,2536,E14A49,1,*,*,1
+90090233,,9,Ciudad de México,CDMX,9,Milpa Alta,233,Las Cruces Parte Alta (Tehuepanco),R,19.174516,-99.039736,2701,E14A49,166,84,82,42
+90090234,,9,Ciudad de México,CDMX,9,Milpa Alta,234,Cuacualipa,R,19.170628,-99.034259,2718,E14A49,36,19,17,12
+90090235,,9,Ciudad de México,CDMX,9,Milpa Alta,235,Tehuistitla,R,19.170215,-99.038089,2727,E14A49,88,43,45,24
+90090236,,9,Ciudad de México,CDMX,9,Milpa Alta,236,Cuaxaltepec,R,19.167599,-99.036909,2768,E14A49,10,5,5,3
+90090237,,9,Ciudad de México,CDMX,9,Milpa Alta,237,Tenopantitla,R,19.164733,-99.028284,2826,E14A49,5,*,*,2
+90090238,,9,Ciudad de México,CDMX,9,Milpa Alta,238,Ocoteloloco (Tlaxcantitla),R,19.172511,-99.019099,2701,E14A49,0,0,0,0
+90090239,,9,Ciudad de México,CDMX,9,Milpa Alta,239,Tecpallo,R,19.197178,-98.990619,2380,E14B41,70,33,37,21
+90090241,,9,Ciudad de México,CDMX,9,Milpa Alta,241,Loma Bonita,R,19.174475,-98.988001,2603,E14B41,64,29,35,18
+90090242,,9,Ciudad de México,CDMX,9,Milpa Alta,242,Cuacuahotlipa,R,19.168303,-98.987158,2658,E14B41,300,152,148,78
+90090243,,9,Ciudad de México,CDMX,9,Milpa Alta,243,Nacatulatlaxco,R,19.167272,-98.991642,2663,E14B41,20,10,10,6
+90090244,,9,Ciudad de México,CDMX,9,Milpa Alta,244,Tlacoxpa (Teshutla),R,19.165398,-98.989522,2665,E14B41,31,18,13,7
+90090245,,9,Ciudad de México,CDMX,9,Milpa Alta,245,Citlalcuac (Rancho el Paraíso Perdido),R,19.200292,-99.095664,2656,E14A49,114,61,53,25
+90090246,,9,Ciudad de México,CDMX,9,Milpa Alta,246,Atoctenco (Prolongación Niños Héroes),R,19.200036,-99.086703,2633,E14A49,140,79,61,41
+90090248,,9,Ciudad de México,CDMX,9,Milpa Alta,248,Paraje Huicalco,R,19.21015,-99.060142,2579,E14A49,111,56,55,31
+90090249,,9,Ciudad de México,CDMX,9,Milpa Alta,249,Los Aguilar,R,19.206347,-99.076466,2648,E14A49,11,4,7,6
+90090250,,9,Ciudad de México,CDMX,9,Milpa Alta,250,Tetexaloca,R,19.188662,-99.061503,2626,E14A49,25,11,14,7
+90090251,,9,Ciudad de México,CDMX,9,Milpa Alta,251,Prolongación Justo Sierra,R,19.201326,-99.058587,2467,E14A49,48,18,30,13
+90090252,,9,Ciudad de México,CDMX,9,Milpa Alta,252,Acatlahuco,R,19.181031,-99.062173,2706,E14A49,95,48,47,26
+90090253,,9,Ciudad de México,CDMX,9,Milpa Alta,253,Xalmoyo,R,19.186271,-99.098384,2833,E14A49,95,46,49,24
+90090254,,9,Ciudad de México,CDMX,9,Milpa Alta,254,Oluca,R,19.19422,-99.103056,2715,E14A49,367,192,175,96
+90090256,,9,Ciudad de México,CDMX,9,Milpa Alta,256,Tlalcoxtepec,R,19.200248,-99.082486,2594,E14A49,221,122,99,63
+90090257,,9,Ciudad de México,CDMX,9,Milpa Alta,257,Camino Viejo a Santa Cruz,R,19.211977,-99.067283,2574,E14A49,78,35,43,19
+90090258,,9,Ciudad de México,CDMX,9,Milpa Alta,258,Concla (Camino a Tlaltenamic),R,19.186514,-99.043464,2641,E14A49,10,*,*,2
+90090259,,9,Ciudad de México,CDMX,9,Milpa Alta,259,Tlaltenami,R,19.167587,-99.058361,2883,E14A49,0,0,0,0
+90090264,,9,Ciudad de México,CDMX,9,Milpa Alta,264,Panuca (Cuatexoxoco),R,19.165838,-98.995316,2728,E14B41,49,25,24,15
+90090265,,9,Ciudad de México,CDMX,9,Milpa Alta,265,Tlaltepec (Tlacoxtepec),R,19.185645,-99.00603,2472,E14A49,107,47,60,34
+90090266,,9,Ciudad de México,CDMX,9,Milpa Alta,266,Chimeo (Las Palmas),R,19.222076,-99.010259,2424,E14A49,146,76,70,33
+90090268,,9,Ciudad de México,CDMX,9,Milpa Alta,268,Moxala,R,19.207308,-99.014493,2381,E14A49,161,87,74,35
+90090269,,9,Ciudad de México,CDMX,9,Milpa Alta,269,El Cerrito,R,19.211315,-98.988522,2257,E14B41,236,123,113,54
+90090271,,9,Ciudad de México,CDMX,9,Milpa Alta,271,San Miguel (Tecoxomayehualtitla),R,19.167134,-99.00562,2782,E14A49,34,17,17,11
+90090273,,9,Ciudad de México,CDMX,9,Milpa Alta,273,Texomulco,R,19.219314,-99.044611,2500,E14A49,0,0,0,0
+90090274,,9,Ciudad de México,CDMX,9,Milpa Alta,274,Tlalmanco (Prolongación Benito Juárez),R,19.164466,-98.998672,2781,E14B41,12,8,4,3
+90090275,,9,Ciudad de México,CDMX,9,Milpa Alta,275,Tlalcocomoya,R,19.172182,-99.043665,2757,E14A49,38,18,20,10
+90090276,,9,Ciudad de México,CDMX,9,Milpa Alta,276,Paraje Tatazquiopa,R,19.171589,-99.044799,2770,E14A49,27,13,14,8
+90090277,,9,Ciudad de México,CDMX,9,Milpa Alta,277,Atoctenco,R,19.215656,-99.047922,2457,E14A49,546,266,280,123
+90090278,,9,Ciudad de México,CDMX,9,Milpa Alta,278,Tecamac,R,19.193007,-99.033849,2478,E14A49,63,28,35,12
+90090280,,9,Ciudad de México,CDMX,9,Milpa Alta,280,Teutlalpa,R,19.210351,-99.057322,2571,E14A49,11,4,7,3
+90090281,,9,Ciudad de México,CDMX,9,Milpa Alta,281,Zihuantemohuayan,R,19.213938,-99.05746,2578,E14A49,27,11,16,8
+90090282,,9,Ciudad de México,CDMX,9,Milpa Alta,282,Las Abejas,R,19.209144,-99.075948,2626,E14A49,20,9,11,5
+90090283,,9,Ciudad de México,CDMX,9,Milpa Alta,283,Tlatzala,R,19.210387,-99.054529,2519,E14A49,50,23,27,11
+90090284,,9,Ciudad de México,CDMX,9,Milpa Alta,284,Tetzompa,R,19.206006,-99.013555,2368,E14A49,66,32,34,14
+90090285,,9,Ciudad de México,CDMX,9,Milpa Alta,285,Tuzanco (La Joya),R,19.201223,-99.088297,2619,E14A49,351,172,179,91
+90090286,,9,Ciudad de México,CDMX,9,Milpa Alta,286,San José López Trejo,R,19.170413,-99.063424,2878,E14A49,1,*,*,1
+90090288,,9,Ciudad de México,CDMX,9,Milpa Alta,288,Tlacopanco,R,19.19313,-99.070926,2618,E14A49,59,33,26,15
+90090289,,9,Ciudad de México,CDMX,9,Milpa Alta,289,Pixucaltitla,R,19.192575,-99.072199,2628,E14A49,72,37,35,13
+90090290,,9,Ciudad de México,CDMX,9,Milpa Alta,290,Totomacuentla,R,19.186151,-99.036508,2562,E14A49,5,*,*,1
+90090291,,9,Ciudad de México,CDMX,9,Milpa Alta,291,Kilómetro 24,R,19.177716,-99.02007,2602,E14A49,21,5,16,4
+90090292,,9,Ciudad de México,CDMX,9,Milpa Alta,292,Joyas Parte Alta,R,19.207621,-98.99168,2271,E14B41,591,301,290,156
+90090294,,9,Ciudad de México,CDMX,9,Milpa Alta,294,Acuexcomatl,R,19.171222,-99.068071,2852,E14A49,7,*,*,2
+90090297,,9,Ciudad de México,CDMX,9,Milpa Alta,297,San Antonio Cuilotepec,R,19.184409,-99.091525,2871,E14A49,390,191,199,91
+90090299,,9,Ciudad de México,CDMX,9,Milpa Alta,299,Tenichcalco,R,19.154264,-98.98935,2779,E14B41,0,0,0,0
+90090300,,9,Ciudad de México,CDMX,9,Milpa Alta,300,San Nicolás Tetelco,U,19.208455,-98.97056,2259,E14B41,4078,2021,2057,1008
+90090301,,9,Ciudad de México,CDMX,9,Milpa Alta,301,El Tejocote,R,19.203726,-98.970254,2285,E14B41,86,44,42,26
+90090302,,9,Ciudad de México,CDMX,9,Milpa Alta,302,Ejidos Tecoxpa,R,19.20681,-98.976423,2258,E14B41,4,*,*,1
+90090303,,9,Ciudad de México,CDMX,9,Milpa Alta,303,Arboledas,R,19.209614,-98.980835,2257,E14B41,183,98,85,45
+90090304,,9,Ciudad de México,CDMX,9,Milpa Alta,304,Emiliano Zapata (Camino al Cerro),R,19.205565,-98.9722,2266,E14B41,45,21,24,10
+90090305,,9,Ciudad de México,CDMX,9,Milpa Alta,305,Corraltitla,R,19.202569,-99.020303,2381,E14A49,166,91,75,39
+90090306,,9,Ciudad de México,CDMX,9,Milpa Alta,306,Tepanoco,R,19.204429,-99.018512,2388,E14A49,33,15,18,7
+90090309,,9,Ciudad de México,CDMX,9,Milpa Alta,309,Zacatipla,R,19.206798,-99.028421,2418,E14A49,2,*,*,1
+90090310,,9,Ciudad de México,CDMX,9,Milpa Alta,310,Santa Martha Xolco,R,19.205035,-99.030743,2412,E14A49,58,33,25,13
+90090312,,9,Ciudad de México,CDMX,9,Milpa Alta,312,Tepetitla (Villa Hermosa),R,19.197827,-99.035794,2438,E14A49,27,15,12,7
+90090313,,9,Ciudad de México,CDMX,9,Milpa Alta,313,Totoxhpa (Cerrada Culiacán),R,19.192717,-99.032372,2460,E14A49,17,11,6,4
+90090314,,9,Ciudad de México,CDMX,9,Milpa Alta,314,Belizario Domínguez,R,19.203389,-99.008447,2315,E14A49,182,92,90,48
+90090315,,9,Ciudad de México,CDMX,9,Milpa Alta,315,Nuchtla,R,19.206616,-99.044565,2469,E14A49,512,255,257,114
+90090316,,9,Ciudad de México,CDMX,9,Milpa Alta,316,Tehuizco,R,19.211655,-99.0434,2485,E14A49,301,142,159,70
+90090317,,9,Ciudad de México,CDMX,9,Milpa Alta,317,Axayatipac,R,19.210337,-99.046523,2446,E14A49,230,107,123,57
+90090318,,9,Ciudad de México,CDMX,9,Milpa Alta,318,Ayotepec,R,19.206304,-99.040116,2477,E14A49,105,57,48,28
+90090319,,9,Ciudad de México,CDMX,9,Milpa Alta,319,Ochpantenco,R,19.17164,-99.035461,2700,E14A49,66,26,40,18
+90090321,,9,Ciudad de México,CDMX,9,Milpa Alta,321,La Virgen,R,19.21113,-99.050856,2491,E14A49,13,8,5,4
+90090322,,9,Ciudad de México,CDMX,9,Milpa Alta,322,Matlahuacaloca,R,19.207387,-99.050206,2485,E14A49,251,114,137,65
+90090323,,9,Ciudad de México,CDMX,9,Milpa Alta,323,Tula (Huixtotlazintla),R,19.204456,-99.052783,2439,E14A49,129,65,64,28
+90090326,,9,Ciudad de México,CDMX,9,Milpa Alta,326,Tlatlapantunco,R,19.196514,-99.046166,2525,E14A49,17,7,10,3
+90090328,,9,Ciudad de México,CDMX,9,Milpa Alta,328,San Agustín,R,19.183081,-99.018295,2496,E14A49,72,34,38,20
+90090332,,9,Ciudad de México,CDMX,9,Milpa Alta,332,Los Angeles,R,19.181407,-99.025885,2524,E14A49,29,12,17,7
+90090333,,9,Ciudad de México,CDMX,9,Milpa Alta,333,Tezontlipac (San Lorenzo Tlacoyucan),R,19.180687,-99.028341,2550,E14A49,31,17,14,6
+90090337,,9,Ciudad de México,CDMX,9,Milpa Alta,337,Tlalzonco,R,19.172046,-99.02762,2692,E14A49,41,23,18,10
+90090338,,9,Ciudad de México,CDMX,9,Milpa Alta,338,Temazcaltitla,R,19.17257,-99.028337,2682,E14A49,71,38,33,15
+90090340,,9,Ciudad de México,CDMX,9,Milpa Alta,340,Chautonco,R,19.175697,-99.027101,2623,E14A49,133,65,68,36
+90090341,,9,Ciudad de México,CDMX,9,Milpa Alta,341,Texotitla,R,19.189676,-99.099279,2788,E14A49,20,9,11,7
+90090342,,9,Ciudad de México,CDMX,9,Milpa Alta,342,Coatepec,R,19.186144,-99.095954,2826,E14A49,121,55,66,28
+90090344,,9,Ciudad de México,CDMX,9,Milpa Alta,344,Ocotitla (Barrio de Santa Cruz),R,19.207558,-99.019632,2407,E14A49,74,39,35,18
+90090345,,9,Ciudad de México,CDMX,9,Milpa Alta,345,Teuhtli,R,19.223392,-99.006506,2365,E14A49,46,22,24,10
+90090347,,9,Ciudad de México,CDMX,9,Milpa Alta,347,Xochiatlaco,R,19.185084,-99.001977,2470,E14A49,21,9,12,5
+90090348,,9,Ciudad de México,CDMX,9,Milpa Alta,348,Huacaltunco,R,19.182889,-99.003209,2508,E14A49,65,29,36,19
+90090351,,9,Ciudad de México,CDMX,9,Milpa Alta,351,Tlahuiztpa,R,19.17114,-99.005339,2713,E14A49,129,66,63,34
+90090352,,9,Ciudad de México,CDMX,9,Milpa Alta,352,Zacacali,R,19.182853,-99.057594,2667,E14A49,76,42,34,20
+90090353,,9,Ciudad de México,CDMX,9,Milpa Alta,353,Tepenahuac [Centro de Educación Ambiental],R,19.172893,-98.977156,2600,E14B41,0,0,0,0
+90090354,,9,Ciudad de México,CDMX,9,Milpa Alta,354,Camino Viejo a Tlaltenamic,R,19.185204,-99.04366,2649,E14A49,87,48,39,21
+90090355,,9,Ciudad de México,CDMX,9,Milpa Alta,355,Joyas del Pedregal,R,19.176574,-98.98713,2579,E14B41,51,24,27,16
+90090356,,9,Ciudad de México,CDMX,9,Milpa Alta,356,Los Romero,R,19.158391,-98.993514,2823,E14B41,20,9,11,7
+90090357,,9,Ciudad de México,CDMX,9,Milpa Alta,357,Rancho Viejo,R,19.172512,-98.984904,2632,E14B41,10,*,*,2
+90090358,,9,Ciudad de México,CDMX,9,Milpa Alta,358,Don Diegoco,R,19.212818,-98.989511,2257,E14B41,29,15,14,9
+90090359,,9,Ciudad de México,CDMX,9,Milpa Alta,359,Apilintitla,R,19.212002,-99.062786,2579,E14A49,51,26,25,10
+90090360,,9,Ciudad de México,CDMX,9,Milpa Alta,360,Atlahuitonca,R,19.196433,-98.993961,2346,E14B41,98,45,53,33
+90090361,,9,Ciudad de México,CDMX,9,Milpa Alta,361,Xilozuchitl,R,19.194826,-99.072879,2602,E14A49,70,29,41,15
+90090362,,9,Ciudad de México,CDMX,9,Milpa Alta,362,Tenco,R,19.190689,-99.06898,2627,E14A49,13,5,8,4
+90090363,,9,Ciudad de México,CDMX,9,Milpa Alta,363,Xonacatepec,R,19.200627,-98.993641,2319,E14B41,30,12,18,7
+90090364,,9,Ciudad de México,CDMX,9,Milpa Alta,364,Xicalhuacan,R,19.201643,-98.99676,2302,E14B41,43,23,20,16
+90090365,,9,Ciudad de México,CDMX,9,Milpa Alta,365,Ixotitla,R,19.183136,-99.082064,2830,E14A49,37,20,17,11
+90090366,,9,Ciudad de México,CDMX,9,Milpa Alta,366,Xaltenco,R,19.201088,-99.037048,2452,E14A49,14,7,7,5
+90090367,,9,Ciudad de México,CDMX,9,Milpa Alta,367,Tlaquexpa,R,19.201171,-99.093753,2676,E14A49,32,13,19,9
+90090368,,9,Ciudad de México,CDMX,9,Milpa Alta,368,Pipitongo,R,19.187201,-99.002381,2441,E14A49,6,*,*,2
+90090369,,9,Ciudad de México,CDMX,9,Milpa Alta,369,Encinos,R,19.206784,-99.015915,2393,E14A49,10,4,6,3
+90090370,,9,Ciudad de México,CDMX,9,Milpa Alta,370,Tehuehuec,R,19.208543,-99.023528,2421,E14A49,18,13,5,7
+90090371,,9,Ciudad de México,CDMX,9,Milpa Alta,371,Tlalaxco,R,19.217623,-99.046508,2473,E14A49,105,54,51,31
+90090372,,9,Ciudad de México,CDMX,9,Milpa Alta,372,Apetatita,R,19.192572,-99.075924,2655,E14A49,89,43,46,18
+90090373,,9,Ciudad de México,CDMX,9,Milpa Alta,373,Texali,R,19.193593,-99.076758,2644,E14A49,67,33,34,21
+90090374,,9,Ciudad de México,CDMX,9,Milpa Alta,374,Xilutepec,R,19.19209,-98.991156,2397,E14B41,46,27,19,13
+90090375,,9,Ciudad de México,CDMX,9,Milpa Alta,375,Chuchupic,R,19.16581,-99.070593,2910,E14A49,0,0,0,0
+90090376,,9,Ciudad de México,CDMX,9,Milpa Alta,376,San Isidro Labrador,R,19.163724,-99.065538,2948,E14A49,0,0,0,0
+90090377,,9,Ciudad de México,CDMX,9,Milpa Alta,377,Ecatepeclixpa,R,19.173737,-99.061058,2823,E14A49,0,0,0,0
+90090378,,9,Ciudad de México,CDMX,9,Milpa Alta,378,Don Guillermo,R,19.175311,-99.058736,2763,E14A49,1,*,*,1
+90090379,,9,Ciudad de México,CDMX,9,Milpa Alta,379,Ixtonpaxtitla,R,19.180926,-99.053811,2663,E14A49,6,*,*,1
+90090380,,9,Ciudad de México,CDMX,9,Milpa Alta,380,Texico,R,19.180523,-99.051154,2671,E14A49,21,11,10,6
+90090381,,9,Ciudad de México,CDMX,9,Milpa Alta,381,El Santanero,R,19.20227,-98.96809,2289,E14B41,5,*,*,1
+90090382,,9,Ciudad de México,CDMX,9,Milpa Alta,382,Hueyahuatitla,R,19.184377,-99.10418,2860,E14A49,2,*,*,1
+90090383,,9,Ciudad de México,CDMX,9,Milpa Alta,383,Zopilocalco (Tatamazquipa),R,19.16895,-99.041734,2759,E14A49,5,*,*,2
+90090384,,9,Ciudad de México,CDMX,9,Milpa Alta,384,Acopilipan,R,19.175287,-99.045953,2724,E14A49,32,19,13,9
+90090385,,9,Ciudad de México,CDMX,9,Milpa Alta,385,Hueyitlatile,R,19.171169,-99.008762,2735,E14A49,9,4,5,3
+90090386,,9,Ciudad de México,CDMX,9,Milpa Alta,386,Coyote,R,19.159876,-99.028934,2909,E14A49,2,*,*,2
+90090387,,9,Ciudad de México,CDMX,9,Milpa Alta,387,El Triángulo,R,19.184854,-98.998506,2487,E14B41,6,*,*,2
+90090388,,9,Ciudad de México,CDMX,9,Milpa Alta,388,La Purísima,R,19.183161,-99.038269,2594,E14A49,77,32,45,17
+90090389,,9,Ciudad de México,CDMX,9,Milpa Alta,389,Atempa,R,19.179829,-99.06445,2736,E14A49,33,22,11,8
+90090390,,9,Ciudad de México,CDMX,9,Milpa Alta,390,Tlacuitlaya,R,19.201938,-99.059381,2510,E14A49,17,8,9,4
+90090391,,9,Ciudad de México,CDMX,9,Milpa Alta,391,Cruz Tlaltempa,R,19.202924,-99.061669,2564,E14A49,31,13,18,7
+90090392,,9,Ciudad de México,CDMX,9,Milpa Alta,392,Ahuatitla (El Tecorral),R,19.191051,-99.060839,2587,E14A49,83,43,40,20
+90090393,,9,Ciudad de México,CDMX,9,Milpa Alta,393,Xaltepec,R,19.216356,-99.040607,2566,E14A49,2,*,*,1
+90090394,,9,Ciudad de México,CDMX,9,Milpa Alta,394,Limonuxititla,R,19.176955,-99.082115,2936,E14A49,1,*,*,1
+90090395,,9,Ciudad de México,CDMX,9,Milpa Alta,395,Cuapetzayuca,R,19.171334,-99.080584,2955,E14A49,17,12,5,6
+90090396,,9,Ciudad de México,CDMX,9,Milpa Alta,396,Techalli,R,19.1704,-99.074808,2922,E14A49,5,*,*,1
+90090399,,9,Ciudad de México,CDMX,9,Milpa Alta,399,Tlacapantongo,R,19.172392,-99.084904,3005,E14A49,0,0,0,0
+90090400,,9,Ciudad de México,CDMX,9,Milpa Alta,400,El Dios Tláloc,R,19.182002,-99.095227,2898,E14A49,9,*,*,2
+90090401,,9,Ciudad de México,CDMX,9,Milpa Alta,401,La Loma de San José,R,19.179207,-99.087912,2957,E14A49,10,*,*,2
+90090402,,9,Ciudad de México,CDMX,9,Milpa Alta,402,Tepozán Seco,R,19.171044,-99.097447,3059,E14A49,1,*,*,1
+90090403,,9,Ciudad de México,CDMX,9,Milpa Alta,403,Memeyuca,R,19.180496,-99.093614,2928,E14A49,6,3,3,3
+90090404,,9,Ciudad de México,CDMX,9,Milpa Alta,404,El Rancho,R,19.171616,-99.099794,3068,E14A49,0,0,0,0
+90090405,,9,Ciudad de México,CDMX,9,Milpa Alta,405,Niño Perdido,R,19.182289,-99.102044,2893,E14A49,0,0,0,0
+90090407,,9,Ciudad de México,CDMX,9,Milpa Alta,407,Papalocahuitl,R,19.189381,-99.105189,2771,E14A49,37,19,18,6
+90090408,,9,Ciudad de México,CDMX,9,Milpa Alta,408,Cilxúchitl,R,19.189846,-99.064908,2611,E14A49,2,*,*,1
+90090409,,9,Ciudad de México,CDMX,9,Milpa Alta,409,Ahuatlixpa,R,19.215068,-99.056789,2573,E14A49,0,0,0,0
+90090410,,9,Ciudad de México,CDMX,9,Milpa Alta,410,Tlaltelpampa,R,19.215832,-99.055917,2566,E14A49,10,4,6,3
+90090411,,9,Ciudad de México,CDMX,9,Milpa Alta,411,La Cruz,R,19.21369,-99.056333,2577,E14A49,8,*,*,2
+90090412,,9,Ciudad de México,CDMX,9,Milpa Alta,412,Atotzingo,R,19.221755,-99.036478,2571,E14A49,0,0,0,0
+90090413,,9,Ciudad de México,CDMX,9,Milpa Alta,413,Tepecuescotitla (San Antonio),R,19.209885,-99.062456,2580,E14A49,28,13,15,9
+90090414,,9,Ciudad de México,CDMX,9,Milpa Alta,414,La Lupita Tepetenco,R,19.185182,-98.990144,2501,E14B41,11,6,5,3
+90090415,,9,Ciudad de México,CDMX,9,Milpa Alta,415,Cristo Rey (Emiliano Zapata),R,19.205284,-99.002529,2305,E14A49,132,62,70,38
+90090416,,9,Ciudad de México,CDMX,9,Milpa Alta,416,La Joyita,R,19.201365,-99.084581,2600,E14A49,-,-,-,-
+90090417,,9,Ciudad de México,CDMX,9,Milpa Alta,417,La Nopalera,R,19.199091,-98.979187,2322,E14B41,-,-,-,-
+90090418,,9,Ciudad de México,CDMX,9,Milpa Alta,418,Tlapantongo,R,19.201211,-98.980245,2306,E14B41,-,-,-,-
+90090419,,9,Ciudad de México,CDMX,9,Milpa Alta,419,El Pedregal,R,19.193006,-98.974281,2388,E14B41,-,-,-,-
+90090420,,9,Ciudad de México,CDMX,9,Milpa Alta,420,Tlatlanextla,R,19.200276,-98.989025,2328,E14B41,-,-,-,-
+90090421,,9,Ciudad de México,CDMX,9,Milpa Alta,421,Huixtecolizintla,R,19.159825,-98.996,2798,E14B41,-,-,-,-
+90090422,,9,Ciudad de México,CDMX,9,Milpa Alta,422,Tepalahco,R,19.16739,-99.002992,2749,E14A49,-,-,-,-
+90090423,,9,Ciudad de México,CDMX,9,Milpa Alta,423,Apetatitla,R,19.195906,-99.073944,2594,E14A49,-,-,-,-
+90090424,,9,Ciudad de México,CDMX,9,Milpa Alta,424,Imanic,R,19.174209,-99.099731,3037,E14A49,-,-,-,-
+90100001,,9,Ciudad de México,CDMX,10,Álvaro Obregón,1,Álvaro Obregón,U,19.390806,-99.195413,2308,E14A39,759003,360935,398068,219413
+90100007,,9,Ciudad de México,CDMX,10,Álvaro Obregón,7,Rancho Barbechos,R,19.257838,-99.317164,3484,E14A39,4,*,*,1
+90100213,,9,Ciudad de México,CDMX,10,Álvaro Obregón,213,Ojo de Agua,R,19.301921,-99.274637,2864,E14A39,63,33,30,12
+90100214,,9,Ciudad de México,CDMX,10,Álvaro Obregón,214,Camino a la Bandera,R,19.321635,-99.27311,2819,E14A39,12,7,5,4
+90100215,,9,Ciudad de México,CDMX,10,Álvaro Obregón,215,Tiximaloya,R,19.312642,-99.276543,2884,E14A39,3,2,1,3
+90100216,,9,Ciudad de México,CDMX,10,Álvaro Obregón,216,El Ermitaño (Paraje el Chipil),R,19.301087,-99.269983,2773,E14A39,47,23,24,9
+90100217,,9,Ciudad de México,CDMX,10,Álvaro Obregón,217,Texcalatlaco,R,19.317737,-99.274487,2814,E14A39,5,3,2,3
+90100219,,9,Ciudad de México,CDMX,10,Álvaro Obregón,219,Apapaxtla,R,19.282815,-99.287957,2954,E14A39,0,0,0,0
+90110001,,9,Ciudad de México,CDMX,11,Tláhuac,1,Tláhuac,U,19.270566,-99.004846,2249,E14A39,323771,156497,167274,89454
+90110011,,9,Ciudad de México,CDMX,11,Tláhuac,11,San Andrés Mixquic,U,19.224778,-98.964944,2240,E14B41,13910,6828,7082,3191
+90110021,,9,Ciudad de México,CDMX,11,Tláhuac,21,San Juan Ixtayopan,U,19.240896,-98.995596,2241,E14B41,28027,13773,14254,7361
+90110024,,9,Ciudad de México,CDMX,11,Tláhuac,24,San Nicolás Tetelco,U,19.217585,-98.972725,2242,E14B41,4919,2330,2589,1290
+90110026,,9,Ciudad de México,CDMX,11,Tláhuac,26,Santa Catarina Yecahuitzotl,U,19.308961,-98.968578,2260,E14B31,11644,5744,5900,3087
+90110069,,9,Ciudad de México,CDMX,11,Tláhuac,69,San Miguel,R,19.221208,-98.958458,2237,E14B41,221,113,108,53
+90110071,,9,Ciudad de México,CDMX,11,Tláhuac,71,Tabla los Pozos,R,19.28177,-98.986736,2229,E14B31,301,158,143,70
+90110072,,9,Ciudad de México,CDMX,11,Tláhuac,72,Mesita del Capulín,R,19.308524,-98.98256,2285,E14B31,125,71,54,33
+90110076,,9,Ciudad de México,CDMX,11,Tláhuac,76,Ojo de Agua,R,19.217901,-98.963724,2238,E14B41,118,59,59,26
+90110081,,9,Ciudad de México,CDMX,11,Tláhuac,81,San Miguel (Chinampas),R,19.220135,-98.967231,2236,E14B41,65,34,31,19
+90110086,,9,Ciudad de México,CDMX,11,Tláhuac,86,Xila,R,19.219694,-98.95575,2233,E14B41,103,49,54,21
+90110087,,9,Ciudad de México,CDMX,11,Tláhuac,87,Axolocalco (Prolongación Santa Cruz),R,19.220242,-98.945225,2212,E14B41,90,46,44,25
+90110089,,9,Ciudad de México,CDMX,11,Tláhuac,89,El Tetecon (El Solitario),R,19.319274,-99.024964,2345,E14A39,16,5,11,5
+90110094,,9,Ciudad de México,CDMX,11,Tláhuac,94,Chinampa San Juan,R,19.271607,-99.009983,2256,E14A39,18,8,10,5
+90110095,,9,Ciudad de México,CDMX,11,Tláhuac,95,Fin de Galeana,R,19.269895,-99.010348,2258,E14A39,17,*,*,2
+90110100,,9,Ciudad de México,CDMX,11,Tláhuac,100,Puente de Tubo,R,19.232204,-98.985071,2240,E14B41,0,0,0,0
+90110103,,9,Ciudad de México,CDMX,11,Tláhuac,103,Paraje Xometitla,R,19.220232,-98.963482,2239,E14B41,145,70,75,34
+90110104,,9,Ciudad de México,CDMX,11,Tláhuac,104,San Ignacio de Loyola,R,19.217182,-98.956798,2236,E14B41,856,407,449,208
+90110108,,9,Ciudad de México,CDMX,11,Tláhuac,108,Paraje Ayecac,R,19.225277,-98.969546,2236,E14B41,81,47,34,19
+90110110,,9,Ciudad de México,CDMX,11,Tláhuac,110,La Ciénega,R,19.287568,-99.021981,2235,E14A39,3050,1490,1560,841
+90110111,,9,Ciudad de México,CDMX,11,Tláhuac,111,Chinampas Tetelco,R,19.218989,-98.968043,2235,E14B41,24,11,13,7
+90110113,,9,Ciudad de México,CDMX,11,Tláhuac,113,Lomas de Xocotlán,R,19.212961,-98.966332,2239,E14B41,238,113,125,56
+90110116,,9,Ciudad de México,CDMX,11,Tláhuac,116,Santa Catarina [Lienzo Charro],R,19.305158,-98.970156,2246,E14B31,5,*,*,1
+90110119,,9,Ciudad de México,CDMX,11,Tláhuac,119,Tierra Blanca Parte Alta,R,19.23262,-99.009732,2370,E14A49,178,87,91,42
+90110122,,9,Ciudad de México,CDMX,11,Tláhuac,122,Las Tablas,R,19.255653,-98.998573,2241,E14B31,8,*,*,1
+90110123,,9,Ciudad de México,CDMX,11,Tláhuac,123,Mina Xaltepec,R,19.310841,-99.033679,2276,E14A39,0,0,0,0
+90110124,,9,Ciudad de México,CDMX,11,Tláhuac,124,Mina la Estancia,R,19.31974,-99.019294,2366,E14A39,0,0,0,0
+90110125,,9,Ciudad de México,CDMX,11,Tláhuac,125,Mina Texcocatitla,R,19.311196,-99.031394,2282,E14A39,0,0,0,0
+90110126,,9,Ciudad de México,CDMX,11,Tláhuac,126,Camino a Tlaltenco,R,19.305093,-99.026713,2254,E14A39,71,41,30,14
+90110128,,9,Ciudad de México,CDMX,11,Tláhuac,128,Prolongación Peña Alta,R,19.226127,-99.007307,2387,E14A49,101,39,62,26
+90110129,,9,Ciudad de México,CDMX,11,Tláhuac,129,Rancho los Pollitos,R,19.298436,-99.00485,2252,E14A39,23,10,13,9
+90110133,,9,Ciudad de México,CDMX,11,Tláhuac,133,Ejido de San Juan Ixtayopan,R,19.244537,-98.992093,2237,E14B41,20,10,10,5
+90110134,,9,Ciudad de México,CDMX,11,Tláhuac,134,Tecolocuahtitla,R,19.295757,-98.98007,2239,E14B31,34,19,15,10
+90110136,,9,Ciudad de México,CDMX,11,Tláhuac,136,El Pato,R,19.250804,-98.996646,2237,E14B31,359,170,189,88
+90110137,,9,Ciudad de México,CDMX,11,Tláhuac,137,Ejido de Tláhuac,R,19.261976,-98.994344,2231,E14B31,77,44,33,22
+90110138,,9,Ciudad de México,CDMX,11,Tláhuac,138,Monserrat (Arenales Oaxaca),R,19.316111,-99.017777,2328,E14A39,0,0,0,0
+90110140,,9,Ciudad de México,CDMX,11,Tláhuac,140,El Paraíso (Mecoxtla),R,19.324147,-98.976726,2334,E14B31,1436,733,703,359
+90110141,,9,Ciudad de México,CDMX,11,Tláhuac,141,Colonia los 500 metros,R,19.322854,-98.970697,2281,E14B31,405,220,185,102
+90110142,,9,Ciudad de México,CDMX,11,Tláhuac,142,Ampliación San Miguel,R,19.293817,-98.970086,2236,E14B31,276,142,134,76
+90110143,,9,Ciudad de México,CDMX,11,Tláhuac,143,Ninguno,R,19.298573,-98.995224,2260,E14B31,1,*,*,1
+90110145,,9,Ciudad de México,CDMX,11,Tláhuac,145,Xalpa (López Portillo),R,19.305856,-99.023572,2261,E14A39,240,115,125,55
+90110146,,9,Ciudad de México,CDMX,11,Tláhuac,146,Piñón,R,19.305394,-99.014751,2281,E14A39,54,26,28,16
+90110148,,9,Ciudad de México,CDMX,11,Tláhuac,148,Puertantitla (Camino al Cerro),R,19.302633,-99.012639,2267,E14A39,275,138,137,65
+90110149,,9,Ciudad de México,CDMX,11,Tláhuac,149,Prolongación el Rosario,R,19.235056,-99.010319,2352,E14A49,152,71,81,40
+90110150,,9,Ciudad de México,CDMX,11,Tláhuac,150,La Nopalera,R,19.238146,-99.012398,2354,E14A49,26,13,13,7
+90110152,,9,Ciudad de México,CDMX,11,Tláhuac,152,Bugambilias,R,19.300029,-98.986629,2260,E14B31,13,10,3,3
+90110153,,9,Ciudad de México,CDMX,11,Tláhuac,153,Tezontitla,R,19.303478,-99.003314,2278,E14A39,25,13,12,6
+90110154,,9,Ciudad de México,CDMX,11,Tláhuac,154,Xalatlayco,R,19.302588,-99.005973,2273,E14A39,145,78,67,37
+90110155,,9,Ciudad de México,CDMX,11,Tláhuac,155,El Capulín,R,19.31825,-98.997997,2433,E14B31,30,14,16,8
+90110156,,9,Ciudad de México,CDMX,11,Tláhuac,156,Las Palmas,R,19.305689,-99.001649,2300,E14A39,13,6,7,3
+90110157,,9,Ciudad de México,CDMX,11,Tláhuac,157,Tezontenco,R,19.310259,-99.022901,2291,E14A39,10,*,*,2
+90110158,,9,Ciudad de México,CDMX,11,Tláhuac,158,Las Calabacitas,R,19.31404,-99.037655,2261,E14A39,19,*,*,2
+90110159,,9,Ciudad de México,CDMX,11,Tláhuac,159,Apoyautla (Cerro de Guadalupe),R,19.301048,-99.006088,2261,E14A39,263,143,120,73
+90110160,,9,Ciudad de México,CDMX,11,Tláhuac,160,Las Nieves (Almoloya),R,19.214547,-98.964358,2237,E14B41,124,68,56,36
+90110161,,9,Ciudad de México,CDMX,11,Tláhuac,161,La Cruz,R,19.234229,-99.017814,2453,E14A49,31,19,12,8
+90110162,,9,Ciudad de México,CDMX,11,Tláhuac,162,Mixtlaplan,R,19.308285,-99.014268,2295,E14A39,90,51,39,20
+90110163,,9,Ciudad de México,CDMX,11,Tláhuac,163,El Llano,R,19.223875,-98.97677,2231,E14B41,70,29,41,20
+90110164,,9,Ciudad de México,CDMX,11,Tláhuac,164,Corena Regional 3,R,19.298013,-98.987193,2253,E14B31,0,0,0,0
+90110165,,9,Ciudad de México,CDMX,11,Tláhuac,165,Cerro de Guadalupe,R,19.311857,-98.995206,2356,E14B31,-,-,-,-
+90110166,,9,Ciudad de México,CDMX,11,Tláhuac,166,La Almeya,R,19.297731,-99.001596,2251,E14A39,-,-,-,-
+90110167,,9,Ciudad de México,CDMX,11,Tláhuac,167,Prolongación Emiliano Zapata,R,19.298797,-99.010063,2257,E14A39,-,-,-,-
+90110168,,9,Ciudad de México,CDMX,11,Tláhuac,168,Colonia Contreras,R,19.310618,-99.014552,2312,E14A39,-,-,-,-
+90110169,,9,Ciudad de México,CDMX,11,Tláhuac,169,Brecha la Mesita,R,19.241101,-99.015258,2359,E14A49,-,-,-,-
+90120001,,9,Ciudad de México,CDMX,12,Tlalpan,1,Tlalpan,U,19.288275,-99.167125,2280,E14A39,599935,285651,314284,176605
+90120019,,9,Ciudad de México,CDMX,12,Tlalpan,19,Parres (El Guarda),U,19.136202,-99.175057,2996,E14A49,3197,1593,1604,806
+90120026,,9,Ciudad de México,CDMX,12,Tlalpan,26,San Miguel Ajusco,U,19.217969,-99.203967,2934,E14A49,37282,18174,19108,9890
+90120027,,9,Ciudad de México,CDMX,12,Tlalpan,27,San Miguel Topilejo,U,19.201359,-99.141398,2649,E14A49,41087,20173,20914,10310
+90120105,,9,Ciudad de México,CDMX,12,Tlalpan,105,Apapaxtles,R,19.208018,-99.228012,3091,E14A49,67,36,31,18
+90120108,,9,Ciudad de México,CDMX,12,Tlalpan,108,Paraje Cercatenco,R,19.204248,-99.222662,3143,E14A49,4,*,*,2
+90120109,,9,Ciudad de México,CDMX,12,Tlalpan,109,Llano de Cantimplora,R,19.208121,-99.274708,3466,E14A49,0,0,0,0
+90120110,,9,Ciudad de México,CDMX,12,Tlalpan,110,Casa Solar,R,19.189194,-99.233981,3367,E14A49,0,0,0,0
+90120112,,9,Ciudad de México,CDMX,12,Tlalpan,112,Cañada del Acueducto,R,19.204818,-99.209242,3030,E14A49,161,83,78,42
+90120114,,9,Ciudad de México,CDMX,12,Tlalpan,114,Cuamino,R,19.208381,-99.232808,3159,E14A49,11,5,6,3
+90120118,,9,Ciudad de México,CDMX,12,Tlalpan,118,La Cima,R,19.114838,-99.195544,3020,E14A49,1,*,*,1
+90120123,,9,Ciudad de México,CDMX,12,Tlalpan,123,Xacatixtla (Granja la Garriga),R,19.196932,-99.170486,2796,E14A49,7,*,*,2
+90120124,,9,Ciudad de México,CDMX,12,Tlalpan,124,Héroes de 1910,R,19.247022,-99.234582,2947,E14A49,571,305,266,174
+90120128,,9,Ciudad de México,CDMX,12,Tlalpan,128,Las Raíces,R,19.169296,-99.158407,2886,E14A49,25,14,11,6
+90120129,,9,Ciudad de México,CDMX,12,Tlalpan,129,Kilómetro 38,R,19.141771,-99.168549,2968,E14A49,2,*,*,1
+90120130,,9,Ciudad de México,CDMX,12,Tlalpan,130,Kilómetro 36.5 (El Crucero),R,19.154525,-99.162943,2935,E14A49,69,31,38,18
+90120131,,9,Ciudad de México,CDMX,12,Tlalpan,131,Las Maravillas (Kilómetro 37),R,19.148554,-99.165659,2942,E14A49,45,20,25,13
+90120132,,9,Ciudad de México,CDMX,12,Tlalpan,132,Kilómetro 33.5,R,19.178706,-99.16074,2865,E14A49,7,5,2,3
+90120135,,9,Ciudad de México,CDMX,12,Tlalpan,135,Lomas de Tepemecatl,R,19.238221,-99.240487,2960,E14A49,4058,2029,2029,1030
+90120140,,9,Ciudad de México,CDMX,12,Tlalpan,140,El Oyamel,R,19.204519,-99.214911,3100,E14A49,4,*,*,1
+90120143,,9,Ciudad de México,CDMX,12,Tlalpan,143,Pentatlón,R,19.225846,-99.248201,3173,E14A49,0,0,0,0
+90120144,,9,Ciudad de México,CDMX,12,Tlalpan,144,Piedra Larga,R,19.190492,-99.137703,2745,E14A49,532,272,260,145
+90120145,,9,Ciudad de México,CDMX,12,Tlalpan,145,Piedras Blancas,R,19.20021,-99.226537,3249,E14A49,4,*,*,1
+90120152,,9,Ciudad de México,CDMX,12,Tlalpan,152,Rancho Ramírez,R,19.219549,-99.223959,3065,E14A49,4,*,*,1
+90120154,,9,Ciudad de México,CDMX,12,Tlalpan,154,Las Ferminas,R,19.197781,-99.229972,3283,E14A49,0,0,0,0
+90120155,,9,Ciudad de México,CDMX,12,Tlalpan,155,La Fortaleza,R,19.203313,-99.237933,3270,E14A49,9,*,*,1
+90120159,,9,Ciudad de México,CDMX,12,Tlalpan,159,La Pedrera,R,19.202585,-99.174175,2815,E14A49,92,47,45,24
+90120161,,9,Ciudad de México,CDMX,12,Tlalpan,161,El Pedregal,R,19.235834,-99.205819,2869,E14A49,822,420,402,223
+90120162,,9,Ciudad de México,CDMX,12,Tlalpan,162,El Sifón,R,19.16374,-99.169429,3011,E14A49,103,50,53,22
+90120164,,9,Ciudad de México,CDMX,12,Tlalpan,164,Kilómetro 17 (Circuito Ajusco),R,19.218898,-99.231863,3076,E14A49,0,0,0,0
+90120165,,9,Ciudad de México,CDMX,12,Tlalpan,165,Rancho las Trojes,R,19.163558,-99.159781,2920,E14A49,0,0,0,0
+90120168,,9,Ciudad de México,CDMX,12,Tlalpan,168,Chalcuitongo (La Asunción),R,19.183609,-99.145074,2748,E14A49,1048,526,522,270
+90120171,,9,Ciudad de México,CDMX,12,Tlalpan,171,Santa Martha,R,19.209876,-99.22056,3049,E14A49,0,0,0,0
+90120175,,9,Ciudad de México,CDMX,12,Tlalpan,175,Siete Ocotes,R,19.162299,-99.157511,2911,E14A49,35,18,17,10
+90120179,,9,Ciudad de México,CDMX,12,Tlalpan,179,El Charco,R,19.234485,-99.225421,2950,E14A49,759,375,384,205
+90120187,,9,Ciudad de México,CDMX,12,Tlalpan,187,Huinixco,R,19.174913,-99.162461,2908,E14A49,271,134,137,66
+90120192,,9,Ciudad de México,CDMX,12,Tlalpan,192,Rancho Kyalami,R,19.20237,-99.232835,3204,E14A49,8,*,*,2
+90120193,,9,Ciudad de México,CDMX,12,Tlalpan,193,Los Sauces,R,19.199601,-99.230164,3269,E14A49,5,*,*,1
+90120197,,9,Ciudad de México,CDMX,12,Tlalpan,197,Rancho San Francisco,R,19.21602,-99.230147,3092,E14A49,0,0,0,0
+90120198,,9,Ciudad de México,CDMX,12,Tlalpan,198,La Troje,R,19.210793,-99.231419,3147,E14A49,18,9,9,7
+90120199,,9,Ciudad de México,CDMX,12,Tlalpan,199,El Cofrecito,R,19.245319,-99.242268,2930,E14A49,12,*,*,2
+90120200,,9,Ciudad de México,CDMX,12,Tlalpan,200,Rancho Espiridión,R,19.213381,-99.234639,3182,E14A49,0,0,0,0
+90120201,,9,Ciudad de México,CDMX,12,Tlalpan,201,Rancho los Compadres,R,19.216037,-99.225699,3106,E14A49,3,*,*,1
+90120202,,9,Ciudad de México,CDMX,12,Tlalpan,202,Rancho el Paraíso,R,19.21506,-99.229778,3131,E14A49,0,0,0,0
+90120205,,9,Ciudad de México,CDMX,12,Tlalpan,205,El Divisadero,R,19.224845,-99.237206,3076,E14A49,0,0,0,0
+90120207,,9,Ciudad de México,CDMX,12,Tlalpan,207,Camino Viejo a San Andrés,R,19.239314,-99.191192,2757,E14A49,8,*,*,1
+90120209,,9,Ciudad de México,CDMX,12,Tlalpan,209,Rancho San Nicolás,R,19.217154,-99.22684,3100,E14A49,2,*,*,1
+90120210,,9,Ciudad de México,CDMX,12,Tlalpan,210,El Arenal,R,19.233587,-99.186219,2743,E14A49,65,33,32,15
+90120216,,9,Ciudad de México,CDMX,12,Tlalpan,216,Cuanejaque,R,19.196144,-99.176662,2844,E14A49,239,124,115,70
+90120217,,9,Ciudad de México,CDMX,12,Tlalpan,217,El Oyameyo,R,19.18823,-99.171417,2915,E14A49,189,102,87,55
+90120218,,9,Ciudad de México,CDMX,12,Tlalpan,218,Parada Oyameyo (Kilómetro 31.5),R,19.192369,-99.167312,2831,E14A49,112,57,55,36
+90120220,,9,Ciudad de México,CDMX,12,Tlalpan,220,La Campana,R,19.25098,-99.244051,2909,E14A39,20,9,11,8
+90120221,,9,Ciudad de México,CDMX,12,Tlalpan,221,La Rufina,R,19.232119,-99.233295,2969,E14A49,50,27,23,10
+90120222,,9,Ciudad de México,CDMX,12,Tlalpan,222,Nopaltitla,R,19.235151,-99.214716,2931,E14A49,669,329,340,170
+90120229,,9,Ciudad de México,CDMX,12,Tlalpan,229,Tres Cabañas,R,19.217092,-99.223955,3063,E14A49,6,*,*,1
+90120232,,9,Ciudad de México,CDMX,12,Tlalpan,232,El Alambrado,R,19.228961,-99.246264,3092,E14A49,4,*,*,1
+90120234,,9,Ciudad de México,CDMX,12,Tlalpan,234,Estudios Ajusco,R,19.227152,-99.229021,2964,E14A49,0,0,0,0
+90120236,,9,Ciudad de México,CDMX,12,Tlalpan,236,El Abrevadero,R,19.224628,-99.243924,3136,E14A49,0,0,0,0
+90120237,,9,Ciudad de México,CDMX,12,Tlalpan,237,Xomulco (Oyamertonco),R,19.218535,-99.227974,3058,E14A49,36,23,13,11
+90120240,,9,Ciudad de México,CDMX,12,Tlalpan,240,La Cofradía,R,19.201156,-99.234727,3252,E14A49,0,0,0,0
+90120243,,9,Ciudad de México,CDMX,12,Tlalpan,243,Los Caballos,R,19.200159,-99.239635,3367,E14A49,0,0,0,0
+90120246,,9,Ciudad de México,CDMX,12,Tlalpan,246,Rancho Chico,R,19.199588,-99.233986,3300,E14A49,4,*,*,1
+90120249,,9,Ciudad de México,CDMX,12,Tlalpan,249,Rancho los Cedros del Abuelo,R,19.208416,-99.225224,3079,E14A49,4,*,*,1
+90120252,,9,Ciudad de México,CDMX,12,Tlalpan,252,La Morucha,R,19.19403,-99.17437,2857,E14A49,5,*,*,2
+90120253,,9,Ciudad de México,CDMX,12,Tlalpan,253,Rancho San Patricio,R,19.187972,-99.18181,2978,E14A49,0,0,0,0
+90120254,,9,Ciudad de México,CDMX,12,Tlalpan,254,Barranquilla,R,19.190654,-99.183366,2954,E14A49,18,9,9,4
+90120256,,9,Ciudad de México,CDMX,12,Tlalpan,256,La Capilla,R,19.190642,-99.220449,3356,E14A49,5,*,*,1
+90120257,,9,Ciudad de México,CDMX,12,Tlalpan,257,Rancho Mezontepec,R,19.186792,-99.233325,3363,E14A49,0,0,0,0
+90120258,,9,Ciudad de México,CDMX,12,Tlalpan,258,Rancho Llano de Vidrio,R,19.19,-99.258333,3309,E14A49,0,0,0,0
+90120259,,9,Ciudad de México,CDMX,12,Tlalpan,259,Llanito Largo [Campamento Forestal],R,19.132584,-99.270744,3016,E14A49,0,0,0,0
+90120262,,9,Ciudad de México,CDMX,12,Tlalpan,262,El Sicomoro,R,19.189983,-99.176147,2916,E14A49,5,*,*,1
+90120263,,9,Ciudad de México,CDMX,12,Tlalpan,263,Tlamenelolpa (Los Encinos),R,19.190614,-99.175531,2902,E14A49,5,*,*,2
+90120264,,9,Ciudad de México,CDMX,12,Tlalpan,264,Predio Tepetzintla,R,19.181475,-99.174648,2993,E14A49,0,0,0,0
+90120265,,9,Ciudad de México,CDMX,12,Tlalpan,265,La Candelaria,R,19.189739,-99.165939,2821,E14A49,8,*,*,1
+90120266,,9,Ciudad de México,CDMX,12,Tlalpan,266,La Providencia,R,19.189079,-99.165656,2822,E14A49,6,*,*,2
+90120267,,9,Ciudad de México,CDMX,12,Tlalpan,267,Finca Trancas (UCAPSA),R,19.187227,-99.166644,2857,E14A49,3,*,*,1
+90120268,,9,Ciudad de México,CDMX,12,Tlalpan,268,Kilómetro 32.3,R,19.185064,-99.165849,2868,E14A49,7,*,*,2
+90120269,,9,Ciudad de México,CDMX,12,Tlalpan,269,Tomasquititla (Kilometro 32.6),R,19.185477,-99.16297,2827,E14A49,65,40,25,17
+90120271,,9,Ciudad de México,CDMX,12,Tlalpan,271,Totoapan,R,19.175029,-99.150872,2809,E14A49,0,0,0,0
+90120272,,9,Ciudad de México,CDMX,12,Tlalpan,272,Colonia Ocotla,R,19.216087,-99.158801,2825,E14A49,121,62,59,31
+90120275,,9,Ciudad de México,CDMX,12,Tlalpan,275,Kilómetro 29.5,R,19.206186,-99.156643,2801,E14A49,44,20,24,12
+90120276,,9,Ciudad de México,CDMX,12,Tlalpan,276,Lomas del Capulín (Kilómetro 30),R,19.20439,-99.162699,2826,E14A49,529,258,271,131
+90120277,,9,Ciudad de México,CDMX,12,Tlalpan,277,Tlatepancaltitla (Kilómetro 30.5),R,19.201065,-99.163703,2787,E14A49,55,22,33,17
+90120278,,9,Ciudad de México,CDMX,12,Tlalpan,278,José María Morelos,R,19.210171,-99.221319,3049,E14A49,3,*,*,1
+90120280,,9,Ciudad de México,CDMX,12,Tlalpan,280,Tlalalpuente,R,19.205657,-99.220733,3116,E14A49,21,11,10,8
+90120282,,9,Ciudad de México,CDMX,12,Tlalpan,282,Ocotla Chico,R,19.210852,-99.169125,2896,E14A49,943,458,485,238
+90120283,,9,Ciudad de México,CDMX,12,Tlalpan,283,Paraje Atonco,R,19.213287,-99.226963,3110,E14A49,31,17,14,6
+90120290,,9,Ciudad de México,CDMX,12,Tlalpan,290,La Herradura,R,19.234715,-99.195795,2794,E14A49,793,404,389,192
+90120291,,9,Ciudad de México,CDMX,12,Tlalpan,291,Carretera al Ajusco,R,19.235196,-99.188521,2756,E14A49,49,24,25,15
+90120295,,9,Ciudad de México,CDMX,12,Tlalpan,295,Chahualixcantitla,R,19.182975,-99.167116,2891,E14A49,16,7,9,7
+90120296,,9,Ciudad de México,CDMX,12,Tlalpan,296,Lomas de San José,R,19.1729,-99.164541,2945,E14A49,69,37,32,17
+90120300,,9,Ciudad de México,CDMX,12,Tlalpan,300,Colonia San Juan,R,19.207102,-99.212337,3025,E14A49,219,120,99,54
+90120301,,9,Ciudad de México,CDMX,12,Tlalpan,301,Colonia Ahuayoto,R,19.205734,-99.216611,3102,E14A49,325,169,156,95
+90120302,,9,Ciudad de México,CDMX,12,Tlalpan,302,Los Encinos,R,19.197653,-99.130448,2592,E14A49,96,55,41,26
+90120303,,9,Ciudad de México,CDMX,12,Tlalpan,303,Kilómetro 32.1,R,19.188197,-99.164621,2829,E14A49,1,*,*,1
+90120305,,9,Ciudad de México,CDMX,12,Tlalpan,305,Lienzo Charro Pepe Castro,R,19.195734,-99.20307,3048,E14A49,3,*,*,1
+90120306,,9,Ciudad de México,CDMX,12,Tlalpan,306,Tres Vientos,R,19.184194,-99.219512,3303,E14A49,0,0,0,0
+90120310,,9,Ciudad de México,CDMX,12,Tlalpan,310,Camino a la Venta,R,19.219902,-99.194168,2833,E14A49,51,26,25,10
+90120311,,9,Ciudad de México,CDMX,12,Tlalpan,311,La Monera,R,19.237378,-99.189086,2752,E14A49,15,9,6,5
+90120316,,9,Ciudad de México,CDMX,12,Tlalpan,316,Huiquilahua,R,19.197581,-99.183741,2886,E14A49,3,*,*,1
+90120317,,9,Ciudad de México,CDMX,12,Tlalpan,317,El Tianguillo,R,19.227484,-99.252095,3164,E14A49,5,3,2,3
+90120318,,9,Ciudad de México,CDMX,12,Tlalpan,318,Criadero Kodik,R,19.22426,-99.238719,3102,E14A49,0,0,0,0
+90120319,,9,Ciudad de México,CDMX,12,Tlalpan,319,Popotenco,R,19.187252,-99.162571,2808,E14A49,20,9,11,6
+90120320,,9,Ciudad de México,CDMX,12,Tlalpan,320,Itelma,R,19.191944,-99.188445,2983,E14A49,-,-,-,-
+90120321,,9,Ciudad de México,CDMX,12,Tlalpan,321,Las Canteras,R,19.214331,-99.151713,2753,E14A49,0,0,0,0
+90120324,,9,Ciudad de México,CDMX,12,Tlalpan,324,Mirador Uno,R,19.193523,-99.191393,2990,E14A49,-,-,-,-
+90120325,,9,Ciudad de México,CDMX,12,Tlalpan,325,Planta Abasolo,R,19.233737,-99.193924,2784,E14A49,93,42,51,24
+90120326,,9,Ciudad de México,CDMX,12,Tlalpan,326,Cuauhtenco,R,19.218601,-99.150094,2721,E14A49,10,4,6,3
+90120327,,9,Ciudad de México,CDMX,12,Tlalpan,327,Tepozán [Parque Ecoturístico],R,19.256984,-99.240444,2879,E14A39,2,*,*,2
+90120328,,9,Ciudad de México,CDMX,12,Tlalpan,328,Ejidos de San Andrés Totoltepec,R,19.253742,-99.229147,2906,E14A39,384,195,189,108
+90120330,,9,Ciudad de México,CDMX,12,Tlalpan,330,Área de los Venados (La SIREFA),R,19.246821,-99.199935,2841,E14A49,3,*,*,1
+90120333,,9,Ciudad de México,CDMX,12,Tlalpan,333,Prolongación Acueducto,R,19.199101,-99.204992,3046,E14A49,20,10,10,6
+90120334,,9,Ciudad de México,CDMX,12,Tlalpan,334,Granja los Pinos,R,19.209639,-99.223052,3056,E14A49,0,0,0,0
+90120335,,9,Ciudad de México,CDMX,12,Tlalpan,335,Rancho el Tordi...yo,R,19.205979,-99.237601,3225,E14A49,7,*,*,1
+90120337,,9,Ciudad de México,CDMX,12,Tlalpan,337,Rancho Yamel,R,19.218441,-99.224953,3095,E14A49,10,*,*,2
+90120339,,9,Ciudad de México,CDMX,12,Tlalpan,339,El Oyamel,R,19.230366,-99.242067,3033,E14A49,7,3,4,3
+90120340,,9,Ciudad de México,CDMX,12,Tlalpan,340,Rancho Tres Hermanos,R,19.189733,-99.226344,3414,E14A49,6,*,*,1
+90120341,,9,Ciudad de México,CDMX,12,Tlalpan,341,Las Cruces,R,19.19573,-99.229507,3300,E14A49,2,*,*,1
+90120342,,9,Ciudad de México,CDMX,12,Tlalpan,342,Rancho Matamoros,R,19.19872,-99.232315,3280,E14A49,10,6,4,3
+90120343,,9,Ciudad de México,CDMX,12,Tlalpan,343,Rancho Valentina,R,19.199794,-99.232885,3274,E14A49,5,*,*,1
+90120345,,9,Ciudad de México,CDMX,12,Tlalpan,345,Ermita Ajusco,R,19.203908,-99.205652,2999,E14A49,0,0,0,0
+90120346,,9,Ciudad de México,CDMX,12,Tlalpan,346,Tepehuaxotla (Prolongación Pirámide),R,19.208145,-99.208103,2970,E14A49,156,71,85,39
+90120347,,9,Ciudad de México,CDMX,12,Tlalpan,347,Las Calaveras (Doña Cristy),R,19.209191,-99.202407,2881,E14A49,5,*,*,1
+90120348,,9,Ciudad de México,CDMX,12,Tlalpan,348,Camino al Cedral (Achichipilco),R,19.206603,-99.205004,2942,E14A49,-,-,-,-
+90120350,,9,Ciudad de México,CDMX,12,Tlalpan,350,Los Tlapancos,R,19.20452,-99.191803,2870,E14A49,108,61,47,31
+90120351,,9,Ciudad de México,CDMX,12,Tlalpan,351,Carretera al Ajusco II,R,19.232232,-99.192062,2793,E14A49,128,63,65,28
+90120352,,9,Ciudad de México,CDMX,12,Tlalpan,352,Las Ventas,R,19.217934,-99.154858,2819,E14A49,0,0,0,0
+90120353,,9,Ciudad de México,CDMX,12,Tlalpan,353,Camino Antiguo a Cuernavaca,R,19.180829,-99.153021,2767,E14A49,8,*,*,2
+90120354,,9,Ciudad de México,CDMX,12,Tlalpan,354,Acazacatongo,R,19.203332,-99.209236,3056,E14A49,86,42,44,27
+90120355,,9,Ciudad de México,CDMX,12,Tlalpan,355,Acueducto 1ra. Sección,R,19.206118,-99.212903,3050,E14A49,35,17,18,15
+90120356,,9,Ciudad de México,CDMX,12,Tlalpan,356,El Campo,R,19.243296,-99.196652,2769,E14A49,8,5,3,3
+90120357,,9,Ciudad de México,CDMX,12,Tlalpan,357,Cuatzontle,R,19.241451,-99.198771,2816,E14A49,34,20,14,7
+90120358,,9,Ciudad de México,CDMX,12,Tlalpan,358,El Arcoiris,R,19.20853,-99.21334,3015,E14A49,190,95,95,49
+90120359,,9,Ciudad de México,CDMX,12,Tlalpan,359,Tixtapaltongo (Loma de Ahuayoto),R,19.201879,-99.212244,3127,E14A49,6,2,4,3
+90120360,,9,Ciudad de México,CDMX,12,Tlalpan,360,Rancho Ahuayoto,R,19.205219,-99.214728,3080,E14A49,10,4,6,3
+90120361,,9,Ciudad de México,CDMX,12,Tlalpan,361,Oyametonco,R,19.202192,-99.222043,3188,E14A49,12,5,7,4
+90120362,,9,Ciudad de México,CDMX,12,Tlalpan,362,Cansacaballos,R,19.202216,-99.224707,3196,E14A49,1,*,*,1
+90120363,,9,Ciudad de México,CDMX,12,Tlalpan,363,Los Arcos,R,19.194063,-99.23407,3337,E14A49,0,0,0,0
+90120364,,9,Ciudad de México,CDMX,12,Tlalpan,364,Bellavista,R,19.196118,-99.234906,3335,E14A49,6,*,*,1
+90120365,,9,Ciudad de México,CDMX,12,Tlalpan,365,Ojo de Agua,R,19.198443,-99.239651,3376,E14A49,4,*,*,1
+90120368,,9,Ciudad de México,CDMX,12,Tlalpan,368,Tepelancoxtla,R,19.190294,-99.18081,2943,E14A49,3,*,*,2
+90120371,,9,Ciudad de México,CDMX,12,Tlalpan,371,San Agustín,R,19.20543,-99.20315,2946,E14A49,3,*,*,1
+90120373,,9,Ciudad de México,CDMX,12,Tlalpan,373,Ixpancolohuia,R,19.184457,-99.167464,2884,E14A49,43,20,23,12
+90120374,,9,Ciudad de México,CDMX,12,Tlalpan,374,Paraje Tlalmenelolpa,R,19.192045,-99.170728,2862,E14A49,89,35,54,26
+90120376,,9,Ciudad de México,CDMX,12,Tlalpan,376,Teteocotla,R,19.180801,-99.16091,2858,E14A49,234,122,112,65
+90120377,,9,Ciudad de México,CDMX,12,Tlalpan,377,Paraje el Tezontle Acopiaxco,R,19.124855,-99.16716,3101,E14A49,6,*,*,2
+90120378,,9,Ciudad de México,CDMX,12,Tlalpan,378,Rancho Viejo,R,19.259697,-99.244446,2841,E14A39,43,26,17,8
+90120379,,9,Ciudad de México,CDMX,12,Tlalpan,379,Paraje el Negro,R,19.266109,-99.245475,2761,E14A39,6,*,*,1
+90120381,,9,Ciudad de México,CDMX,12,Tlalpan,381,Ololica (Loloigque),R,19.216738,-99.171254,2920,E14A49,126,62,64,28
+90120383,,9,Ciudad de México,CDMX,12,Tlalpan,383,Tepacheras (Kilómetro 31),R,19.195587,-99.166745,2802,E14A49,89,47,42,27
+90120387,,9,Ciudad de México,CDMX,12,Tlalpan,387,La Glorieta,R,19.124722,-99.176344,3028,E14A49,0,0,0,0
+90120388,,9,Ciudad de México,CDMX,12,Tlalpan,388,Paraje Altavista,R,19.120992,-99.177351,3049,E14A49,0,0,0,0
+90120389,,9,Ciudad de México,CDMX,12,Tlalpan,389,La Loma,R,19.162355,-99.142201,2888,E14A49,6,*,*,2
+90120390,,9,Ciudad de México,CDMX,12,Tlalpan,390,La Reja,R,19.170798,-99.142708,2821,E14A49,50,28,22,15
+90120392,,9,Ciudad de México,CDMX,12,Tlalpan,392,Colonia Cuauhtenco (Kilómetro 27),R,19.217806,-99.147536,2690,E14A49,43,24,19,10
+90120393,,9,Ciudad de México,CDMX,12,Tlalpan,393,Kilómetro 28 Sur,R,19.21245,-99.151792,2753,E14A49,311,151,160,84
+90120394,,9,Ciudad de México,CDMX,12,Tlalpan,394,Paraje Buenavista,R,19.210811,-99.145422,2809,E14A49,160,80,80,36
+90120395,,9,Ciudad de México,CDMX,12,Tlalpan,395,Los Encinos [Rancho],R,19.216003,-99.143546,2660,E14A49,10,*,*,2
+90120396,,9,Ciudad de México,CDMX,12,Tlalpan,396,Tezontitla,R,19.209308,-99.149627,2756,E14A49,853,424,429,216
+90120398,,9,Ciudad de México,CDMX,12,Tlalpan,398,Rancho Teo,R,19.192782,-99.227251,3390,E14A49,6,*,*,1
+90120399,,9,Ciudad de México,CDMX,12,Tlalpan,399,Piedra Suelta,R,19.22396,-99.231237,2984,E14A49,241,114,127,70
+90120400,,9,Ciudad de México,CDMX,12,Tlalpan,400,El Cristal,R,19.187964,-99.223107,3367,E14A49,0,0,0,0
+90120401,,9,Ciudad de México,CDMX,12,Tlalpan,401,El Retiro,R,19.18922,-99.223727,3375,E14A49,5,*,*,1
+90120402,,9,Ciudad de México,CDMX,12,Tlalpan,402,La Nube,R,19.189314,-99.229742,3491,E14A49,0,0,0,0
+90120403,,9,Ciudad de México,CDMX,12,Tlalpan,403,Las Castañas,R,19.193564,-99.220806,3317,E14A49,3,*,*,1
+90120404,,9,Ciudad de México,CDMX,12,Tlalpan,404,San Carlos,R,19.197078,-99.227004,3285,E14A49,1,*,*,1
+90120405,,9,Ciudad de México,CDMX,12,Tlalpan,405,Rancho Chato,R,19.19674,-99.227625,3286,E14A49,1,*,*,1
+90120406,,9,Ciudad de México,CDMX,12,Tlalpan,406,El Capricho,R,19.190641,-99.233475,3362,E14A49,2,*,*,1
+90120407,,9,Ciudad de México,CDMX,12,Tlalpan,407,El Sillar,R,19.186411,-99.216694,3287,E14A49,5,*,*,1
+90120408,,9,Ciudad de México,CDMX,12,Tlalpan,408,La Quinta Estación,R,19.185162,-99.218451,3293,E14A49,0,0,0,0
+90120409,,9,Ciudad de México,CDMX,12,Tlalpan,409,Rancho Nevado,R,19.200861,-99.2335,3260,E14A49,8,*,*,1
+90120410,,9,Ciudad de México,CDMX,12,Tlalpan,410,La Soledad,R,19.204477,-99.22496,3151,E14A49,10,7,3,3
+90120411,,9,Ciudad de México,CDMX,12,Tlalpan,411,Arenitas,R,19.17053,-99.247717,3239,E14A49,0,0,0,0
+90120412,,9,Ciudad de México,CDMX,12,Tlalpan,412,Las Tinajas,R,19.193071,-99.252078,3317,E14A49,0,0,0,0
+90120413,,9,Ciudad de México,CDMX,12,Tlalpan,413,El Arco,R,19.187274,-99.186305,3020,E14A49,4,*,*,2
+90120414,,9,Ciudad de México,CDMX,12,Tlalpan,414,El Guardita,R,19.206243,-99.19762,2870,E14A49,3,*,*,1
+90120415,,9,Ciudad de México,CDMX,12,Tlalpan,415,El Capricho,R,19.176215,-99.169661,2977,E14A49,9,*,*,1
+90120416,,9,Ciudad de México,CDMX,12,Tlalpan,416,Tlayelpa,R,19.189551,-99.151756,2702,E14A49,106,53,53,25
+90120417,,9,Ciudad de México,CDMX,12,Tlalpan,417,Autriquie,R,19.202219,-99.207354,3054,E14A49,4,*,*,2
+90120418,,9,Ciudad de México,CDMX,12,Tlalpan,418,Cebadillas,R,19.199346,-99.166048,2779,E14A49,54,28,26,11
+90120419,,9,Ciudad de México,CDMX,12,Tlalpan,419,Rancho Mac,R,19.197405,-99.236675,3355,E14A49,1,*,*,1
+90120420,,9,Ciudad de México,CDMX,12,Tlalpan,420,El Salitrillo,R,19.176813,-99.146459,2798,E14A49,40,22,18,9
+90120421,,9,Ciudad de México,CDMX,12,Tlalpan,421,El Encanto,R,19.186706,-99.220877,3354,E14A49,3,*,*,1
+90120422,,9,Ciudad de México,CDMX,12,Tlalpan,422,Xoxoctongo,R,19.208806,-99.2113,2992,E14A49,41,21,20,11
+90120423,,9,Ciudad de México,CDMX,12,Tlalpan,423,La Huerta,R,19.130913,-99.168569,3032,E14A49,24,13,11,8
+90120424,,9,Ciudad de México,CDMX,12,Tlalpan,424,El Líder,R,19.222706,-99.22504,2991,E14A49,4,*,*,1
+90120425,,9,Ciudad de México,CDMX,12,Tlalpan,425,Los Trementineros,R,19.257577,-99.243462,2888,E14A39,0,0,0,0
+90120426,,9,Ciudad de México,CDMX,12,Tlalpan,426,Pedregal del Xitle,R,19.23982,-99.219379,2960,E14A49,35,17,18,11
+90120427,,9,Ciudad de México,CDMX,12,Tlalpan,427,Santa Ana,R,19.217432,-99.165539,2890,E14A49,69,44,25,20
+90120428,,9,Ciudad de México,CDMX,12,Tlalpan,428,Tlapexco,R,19.213861,-99.227694,3127,E14A49,4,*,*,2
+90120429,,9,Ciudad de México,CDMX,12,Tlalpan,429,El Resumidero,R,19.263706,-99.238961,2811,E14A39,172,91,81,68
+90120430,,9,Ciudad de México,CDMX,12,Tlalpan,430,Zamora,R,19.217366,-99.229841,3053,E14A49,10,4,6,3
+90120431,,9,Ciudad de México,CDMX,12,Tlalpan,431,Acanceh,R,19.20333,-99.214153,3125,E14A49,4,*,*,2
+90120432,,9,Ciudad de México,CDMX,12,Tlalpan,432,Majadatonco,R,19.195118,-99.203404,3061,E14A49,6,*,*,2
+90120433,,9,Ciudad de México,CDMX,12,Tlalpan,433,Rancho Tequila,R,19.19359,-99.234292,3340,E14A49,2,*,*,1
+90120434,,9,Ciudad de México,CDMX,12,Tlalpan,434,La Loma,R,19.215096,-99.226887,3115,E14A49,4,*,*,2
+90120435,,9,Ciudad de México,CDMX,12,Tlalpan,435,La Manga Lagunitas,R,19.174556,-99.256085,3237,E14A49,1,*,*,1
+90120436,,9,Ciudad de México,CDMX,12,Tlalpan,436,Xililimoco,R,19.205993,-99.169795,2849,E14A49,141,57,84,40
+90120437,,9,Ciudad de México,CDMX,12,Tlalpan,437,Tierra Blanca,R,19.177629,-99.232573,3289,E14A49,5,*,*,1
+90120438,,9,Ciudad de México,CDMX,12,Tlalpan,438,Ejido de San Miguel Xicalco,R,19.227254,-99.192389,2833,E14A49,19,11,8,7
+90120439,,9,Ciudad de México,CDMX,12,Tlalpan,439,La Joyita,R,19.194125,-99.132907,2636,E14A49,111,55,56,31
+90120440,,9,Ciudad de México,CDMX,12,Tlalpan,440,Ayopa,R,19.197333,-99.134767,2627,E14A49,91,42,49,23
+90120441,,9,Ciudad de México,CDMX,12,Tlalpan,441,Rancho el Ailar,R,19.186517,-99.190169,3045,E14A49,-,-,-,-
+90120442,,9,Ciudad de México,CDMX,12,Tlalpan,442,Huexotipac,R,19.182116,-99.164878,2872,E14A49,-,-,-,-
+90120443,,9,Ciudad de México,CDMX,12,Tlalpan,443,Temasquititla,R,19.1839,-99.161038,2821,E14A49,-,-,-,-
+90130001,,9,Ciudad de México,CDMX,13,Xochimilco,1,Xochimilco,U,19.263462,-99.104913,2237,E14A39,429481,209088,220393,113806
+90130091,,9,Ciudad de México,CDMX,13,Xochimilco,91,Tepemimilco,R,19.226095,-99.123934,2367,E14A49,156,73,83,43
+90130096,,9,Ciudad de México,CDMX,13,Xochimilco,96,Ixotitla,R,19.237216,-99.056995,2350,E14A49,204,105,99,57
+90130111,,9,Ciudad de México,CDMX,13,Xochimilco,111,Paraje Lila (El Ladrillo),R,19.262318,-99.078127,2233,E14A39,30,12,18,8
+90130112,,9,Ciudad de México,CDMX,13,Xochimilco,112,Paraje Texhuilo,R,19.266452,-99.089052,2232,E14A39,2,*,*,1
+90130113,,9,Ciudad de México,CDMX,13,Xochimilco,113,Zacapa,R,19.258401,-99.056906,2235,E14A39,10,2,8,3
+90130118,,9,Ciudad de México,CDMX,13,Xochimilco,118,Barrio San Antonio (Cruz Monte),R,19.245072,-99.034102,2399,E14A49,279,151,128,65
+90130131,,9,Ciudad de México,CDMX,13,Xochimilco,131,Tepepan,R,19.224846,-99.134174,2554,E14A49,0,0,0,0
+90130134,,9,Ciudad de México,CDMX,13,Xochimilco,134,Ampliación Chalmita,R,19.23409,-99.04954,2426,E14A49,613,293,320,159
+90130135,,9,Ciudad de México,CDMX,13,Xochimilco,135,El Mirador (Tetexaloca),R,19.22021,-99.148673,2699,E14A49,6,*,*,2
+90130136,,9,Ciudad de México,CDMX,13,Xochimilco,136,Tepexomulco,R,19.23141,-99.131317,2365,E14A49,555,273,282,129
+90130137,,9,Ciudad de México,CDMX,13,Xochimilco,137,Tlachiultepec de Ahuayucan (Las Malvinas),R,19.204349,-99.102169,2590,E14A49,270,126,144,68
+90130138,,9,Ciudad de México,CDMX,13,Xochimilco,138,Tepetitla (Tlacoxpan),R,19.235306,-99.142213,2422,E14A49,102,51,51,23
+90130139,,9,Ciudad de México,CDMX,13,Xochimilco,139,Tlacualleli (El Calvario),R,19.24227,-99.077933,2311,E14A49,91,42,49,25
+90130140,,9,Ciudad de México,CDMX,13,Xochimilco,140,Tlaltepetla (Tehuistitla),R,19.224515,-99.115342,2370,E14A49,148,69,79,39
+90130143,,9,Ciudad de México,CDMX,13,Xochimilco,143,Tlalatlaco,R,19.22538,-99.143762,2419,E14A49,105,57,48,26
+90130146,,9,Ciudad de México,CDMX,13,Xochimilco,146,Tlatzala (Cuayuca),R,19.23616,-99.077379,2421,E14A49,207,105,102,46
+90130147,,9,Ciudad de México,CDMX,13,Xochimilco,147,Isla de las Muñecas,R,19.272876,-99.088092,2232,E14A39,1,*,*,1
+90130151,,9,Ciudad de México,CDMX,13,Xochimilco,151,Tepuente,R,19.228372,-99.152124,2650,E14A49,48,25,23,15
+90130157,,9,Ciudad de México,CDMX,13,Xochimilco,157,Tipipili,R,19.233863,-99.084526,2414,E14A49,709,355,354,195
+90130160,,9,Ciudad de México,CDMX,13,Xochimilco,160,Tochuca (San Salvador),R,19.202343,-99.102567,2611,E14A49,370,201,169,100
+90130162,,9,Ciudad de México,CDMX,13,Xochimilco,162,Pepelaxtla,R,19.217269,-99.112537,2411,E14A49,343,175,168,84
+90130163,,9,Ciudad de México,CDMX,13,Xochimilco,163,Tecacalango,R,19.21787,-99.107097,2423,E14A49,207,101,106,50
+90130164,,9,Ciudad de México,CDMX,13,Xochimilco,164,Tzompole,R,19.204051,-99.117708,2589,E14A49,39,20,19,10
+90130165,,9,Ciudad de México,CDMX,13,Xochimilco,165,Cacalco (Tepextenco),R,19.19448,-99.124729,2639,E14A49,18,10,8,4
+90130168,,9,Ciudad de México,CDMX,13,Xochimilco,168,Texalco (Joyas de Texalco),R,19.206694,-99.100363,2565,E14A49,3,*,*,1
+90130169,,9,Ciudad de México,CDMX,13,Xochimilco,169,Apatlaco,R,19.264672,-99.086559,2233,E14A39,95,48,47,26
+90130172,,9,Ciudad de México,CDMX,13,Xochimilco,172,Paraje de la Ciénega,R,19.279592,-99.081388,2234,E14A39,47,26,21,13
+90130173,,9,Ciudad de México,CDMX,13,Xochimilco,173,Paraje los Escondidos,R,19.277561,-99.081842,2233,E14A39,0,0,0,0
+90130177,,9,Ciudad de México,CDMX,13,Xochimilco,177,Kilómetro 26,R,19.223561,-99.14082,2471,E14A49,6,*,*,2
+90130178,,9,Ciudad de México,CDMX,13,Xochimilco,178,Tlapizatil (Puente de Urrutia),R,19.261987,-99.072856,2230,E14A39,176,90,86,50
+90130180,,9,Ciudad de México,CDMX,13,Xochimilco,180,Tepexomulco las Rocas,R,19.228535,-99.136066,2392,E14A49,53,28,25,15
+90130181,,9,Ciudad de México,CDMX,13,Xochimilco,181,Ocotitla Tepachuxiac,R,19.228087,-99.141708,2408,E14A49,271,144,127,64
+90130182,,9,Ciudad de México,CDMX,13,Xochimilco,182,Tecuyo,R,19.219349,-99.140579,2594,E14A49,4,*,*,2
+90130183,,9,Ciudad de México,CDMX,13,Xochimilco,183,Hualpalcaltepec,R,19.216199,-99.139665,2692,E14A49,2,*,*,2
+90130184,,9,Ciudad de México,CDMX,13,Xochimilco,184,Atotle,R,19.218483,-99.109494,2413,E14A49,330,158,172,88
+90130185,,9,Ciudad de México,CDMX,13,Xochimilco,185,Los Tejocotes,R,19.202823,-99.118475,2564,E14A49,31,14,17,8
+90130187,,9,Ciudad de México,CDMX,13,Xochimilco,187,Tepepatlaxtle,R,19.202372,-99.11119,2587,E14A49,162,76,86,41
+90130190,,9,Ciudad de México,CDMX,13,Xochimilco,190,Tixculco,R,19.222514,-99.054556,2401,E14A49,42,23,19,17
+90130191,,9,Ciudad de México,CDMX,13,Xochimilco,191,Tecoexcontitla,R,19.213889,-99.085124,2607,E14A49,263,123,140,76
+90130192,,9,Ciudad de México,CDMX,13,Xochimilco,192,Quinta Patricia,R,19.212538,-99.087519,2602,E14A49,0,0,0,0
+90130193,,9,Ciudad de México,CDMX,13,Xochimilco,193,El Potrero (Bosques de la Paz),R,19.212463,-99.0913,2554,E14A49,38,18,20,11
+90130195,,9,Ciudad de México,CDMX,13,Xochimilco,195,Paraje Tepanyecac,R,19.222114,-99.051556,2441,E14A49,58,36,22,16
+90130196,,9,Ciudad de México,CDMX,13,Xochimilco,196,Tepepula,R,19.228047,-99.125747,2380,E14A49,48,27,21,12
+90130197,,9,Ciudad de México,CDMX,13,Xochimilco,197,La Angostura,R,19.262069,-99.075506,2232,E14A39,21,12,9,7
+90130198,,9,Ciudad de México,CDMX,13,Xochimilco,198,Sihuatlixpa,R,19.198985,-99.111584,2660,E14A49,25,12,13,8
+90130201,,9,Ciudad de México,CDMX,13,Xochimilco,201,Cuatixi,R,19.22686,-99.075681,2492,E14A49,53,29,24,17
+90130202,,9,Ciudad de México,CDMX,13,Xochimilco,202,Paraje Zacapa,R,19.217471,-99.089419,2549,E14A49,865,426,439,236
+90130203,,9,Ciudad de México,CDMX,13,Xochimilco,203,Santa Catarina (Piedra Blanca),R,19.214276,-99.079905,2612,E14A49,54,28,26,13
+90130204,,9,Ciudad de México,CDMX,13,Xochimilco,204,Huepaltepec,R,19.215238,-99.074391,2570,E14A49,55,28,27,12
+90130205,,9,Ciudad de México,CDMX,13,Xochimilco,205,Tecuanatla (Arenal Papanco),R,19.216993,-99.107882,2429,E14A49,137,74,63,37
+90130206,,9,Ciudad de México,CDMX,13,Xochimilco,206,Tepepecalachico (Inopilco),R,19.211003,-99.107557,2509,E14A49,19,11,8,5
+90130207,,9,Ciudad de México,CDMX,13,Xochimilco,207,Rancho la Flor,R,19.209792,-99.10139,2510,E14A49,2,*,*,2
+90130208,,9,Ciudad de México,CDMX,13,Xochimilco,208,Los Cedros,R,19.208286,-99.104842,2547,E14A49,2,*,*,1
+90130209,,9,Ciudad de México,CDMX,13,Xochimilco,209,Tepeclite,R,19.204684,-99.105993,2605,E14A49,40,23,17,12
+90130210,,9,Ciudad de México,CDMX,13,Xochimilco,210,Acalipa,R,19.191775,-99.123234,2689,E14A49,29,16,13,7
+90130213,,9,Ciudad de México,CDMX,13,Xochimilco,213,Ampliación Bugambilias (Nauhtecpan),R,19.232204,-99.137469,2388,E14A49,128,64,64,31
+90130214,,9,Ciudad de México,CDMX,13,Xochimilco,214,Tepeyecac (El Arenal),R,19.230345,-99.125408,2362,E14A49,139,70,69,43
+90130215,,9,Ciudad de México,CDMX,13,Xochimilco,215,Tepexomulco (Kilómetro 27.8),R,19.226744,-99.129825,2515,E14A49,12,6,6,4
+90130218,,9,Ciudad de México,CDMX,13,Xochimilco,218,Ixcuicuilco,R,19.221023,-99.117343,2382,E14A49,43,21,22,12
+90130224,,9,Ciudad de México,CDMX,13,Xochimilco,224,Corralón Policía Federal de Caminos,R,19.236863,-99.054542,2323,E14A49,14,9,5,3
+90130226,,9,Ciudad de México,CDMX,13,Xochimilco,226,Cocopalcuautla,R,19.221225,-99.046207,2491,E14A49,71,37,34,20
+90130231,,9,Ciudad de México,CDMX,13,Xochimilco,231,Tecanco,R,19.231818,-99.072194,2418,E14A49,355,167,188,90
+90130232,,9,Ciudad de México,CDMX,13,Xochimilco,232,Atlaxco,R,19.233268,-99.068579,2359,E14A49,123,60,63,38
+90130234,,9,Ciudad de México,CDMX,13,Xochimilco,234,Barrio Nochicala,R,19.244829,-99.039706,2379,E14A49,179,82,97,71
+90130236,,9,Ciudad de México,CDMX,13,Xochimilco,236,Camino Real a San Pedro,R,19.233621,-99.055225,2349,E14A49,151,69,82,33
+90130237,,9,Ciudad de México,CDMX,13,Xochimilco,237,El Cedral,R,19.21604,-99.117929,2400,E14A49,28,15,13,7
+90130238,,9,Ciudad de México,CDMX,13,Xochimilco,238,La Espejera,R,19.262453,-99.056929,2228,E14A39,40,23,17,9
+90130239,,9,Ciudad de México,CDMX,13,Xochimilco,239,Ahuatitla (Texcopaxuli),R,19.231381,-99.054249,2368,E14A49,232,124,108,57
+90130242,,9,Ciudad de México,CDMX,13,Xochimilco,242,Atenco (Tlaquilpa),R,19.256444,-99.054895,2233,E14A39,47,26,21,15
+90130243,,9,Ciudad de México,CDMX,13,Xochimilco,243,Naxayopa,R,19.258906,-99.059022,2235,E14A39,227,112,115,53
+90130244,,9,Ciudad de México,CDMX,13,Xochimilco,244,Coapantitla,R,19.256874,-99.056676,2233,E14A39,62,33,29,12
+90130245,,9,Ciudad de México,CDMX,13,Xochimilco,245,San Martín,R,19.232156,-99.077919,2432,E14A49,8,*,*,2
+90130246,,9,Ciudad de México,CDMX,13,Xochimilco,246,Francisco Villa (Tepejoyuca),R,19.223556,-99.077352,2497,E14A49,27,19,8,6
+90130247,,9,Ciudad de México,CDMX,13,Xochimilco,247,Tecaxi,R,19.22634,-99.138146,2400,E14A49,8,*,*,2
+90130249,,9,Ciudad de México,CDMX,13,Xochimilco,249,Chililico,R,19.265316,-99.09173,2233,E14A39,113,56,57,29
+90130251,,9,Ciudad de México,CDMX,13,Xochimilco,251,Camino al Panteón (Las Cruces),R,19.221617,-99.127383,2453,E14A49,54,29,25,12
+90130252,,9,Ciudad de México,CDMX,13,Xochimilco,252,Texopantitla (Chocolines),R,19.243233,-99.135227,2358,E14A49,182,82,100,54
+90130253,,9,Ciudad de México,CDMX,13,Xochimilco,253,Ilimunxutitla,R,19.192251,-99.108558,2763,E14A49,71,31,40,19
+90130254,,9,Ciudad de México,CDMX,13,Xochimilco,254,Tlacomulco (Kilómetro 25.5),R,19.225067,-99.145878,2434,E14A49,0,0,0,0
+90130256,,9,Ciudad de México,CDMX,13,Xochimilco,256,La Cienega,R,19.268597,-99.072141,2230,E14A39,4,*,*,1
+90130257,,9,Ciudad de México,CDMX,13,Xochimilco,257,Los Pinos (Tecacahuaco),R,19.235311,-99.14009,2402,E14A49,341,181,160,88
+90130258,,9,Ciudad de México,CDMX,13,Xochimilco,258,Temamatla,R,19.235927,-99.137768,2388,E14A49,168,88,80,38
+90130261,,9,Ciudad de México,CDMX,13,Xochimilco,261,Milahuaytitla,R,19.240509,-99.049253,2379,E14A49,36,19,17,10
+90130262,,9,Ciudad de México,CDMX,13,Xochimilco,262,Nochicala (Pajaritos),R,19.242021,-99.037634,2440,E14A49,44,22,22,18
+90130263,,9,Ciudad de México,CDMX,13,Xochimilco,263,San Juan Diego (Matlacuaitla),R,19.243164,-99.044389,2372,E14A49,62,23,39,21
+90130264,,9,Ciudad de México,CDMX,13,Xochimilco,264,Paraje Tlahuiteco,R,19.192061,-99.122251,2692,E14A49,25,13,12,7
+90130265,,9,Ciudad de México,CDMX,13,Xochimilco,265,Moyocalco,R,19.24978,-99.135259,2300,E14A49,183,85,98,51
+90130266,,9,Ciudad de México,CDMX,13,Xochimilco,266,Cuahuticultitla,R,19.229466,-99.141905,2410,E14A49,135,64,71,30
+90130267,,9,Ciudad de México,CDMX,13,Xochimilco,267,Tizilingo,R,19.238055,-99.083421,2404,E14A49,225,119,106,66
+90130269,,9,Ciudad de México,CDMX,13,Xochimilco,269,Bosques de la Paz,R,19.232049,-99.075232,2425,E14A49,201,98,103,49
+90130270,,9,Ciudad de México,CDMX,13,Xochimilco,270,Contlalco,R,19.244597,-99.131992,2339,E14A49,78,32,46,17
+90130271,,9,Ciudad de México,CDMX,13,Xochimilco,271,Tlalmelaca,R,19.263854,-99.037223,2233,E14A39,116,67,49,28
+90130273,,9,Ciudad de México,CDMX,13,Xochimilco,273,Zacazontlipac,R,19.197014,-99.107576,2671,E14A49,575,283,292,134
+90130274,,9,Ciudad de México,CDMX,13,Xochimilco,274,Tepetlatzinco,R,19.22612,-99.057979,2391,E14A49,12,8,4,5
+90130275,,9,Ciudad de México,CDMX,13,Xochimilco,275,El Corazón,R,19.198672,-99.109686,2660,E14A49,42,24,18,11
+90130276,,9,Ciudad de México,CDMX,13,Xochimilco,276,Ocoxochoca,R,19.225532,-99.140528,2409,E14A49,37,19,18,11
+90130277,,9,Ciudad de México,CDMX,13,Xochimilco,277,Texcalatlaco,R,19.234476,-99.052193,2377,E14A49,32,21,11,12
+90130278,,9,Ciudad de México,CDMX,13,Xochimilco,278,Azizicantitla,R,19.22417,-99.142731,2435,E14A49,95,46,49,25
+90130279,,9,Ciudad de México,CDMX,13,Xochimilco,279,Tehuehueyacan,R,19.2176,-99.066621,2539,E14A49,0,0,0,0
+90130280,,9,Ciudad de México,CDMX,13,Xochimilco,280,Duraznotitla (Tlaquilpa),R,19.25902,-99.053061,2234,E14A39,10,*,*,2
+90130281,,9,Ciudad de México,CDMX,13,Xochimilco,281,Ahuapixititla,R,19.208679,-99.106927,2540,E14A49,25,16,9,7
+90130282,,9,Ciudad de México,CDMX,13,Xochimilco,282,El Corral,R,19.208038,-99.108228,2545,E14A49,6,4,2,4
+90130283,,9,Ciudad de México,CDMX,13,Xochimilco,283,Axomulco,R,19.22007,-99.066526,2520,E14A49,47,27,20,14
+90130284,,9,Ciudad de México,CDMX,13,Xochimilco,284,Oquetzalpa,R,19.222436,-99.11693,2373,E14A49,75,31,44,19
+90130285,,9,Ciudad de México,CDMX,13,Xochimilco,285,Texcalpa,R,19.225067,-99.142238,2421,E14A49,46,23,23,14
+90130286,,9,Ciudad de México,CDMX,13,Xochimilco,286,Acapa,R,19.222502,-99.044606,2516,E14A49,9,4,5,4
+90130287,,9,Ciudad de México,CDMX,13,Xochimilco,287,Ototzingo (Acuario),R,19.256157,-99.052046,2233,E14A39,33,17,16,9
+90130288,,9,Ciudad de México,CDMX,13,Xochimilco,288,Tlalmenalqui,R,19.26038,-99.056623,2232,E14A39,7,*,*,2
+90130289,,9,Ciudad de México,CDMX,13,Xochimilco,289,Zacatongo,R,19.194653,-99.129566,2630,E14A49,45,25,20,12
+90130290,,9,Ciudad de México,CDMX,13,Xochimilco,290,Ampliacion Tlapanoya Baja,R,19.241116,-99.134376,2370,E14A49,60,31,29,20
+90130291,,9,Ciudad de México,CDMX,13,Xochimilco,291,Ampliación San Bartolo,R,19.2352,-99.065373,2393,E14A49,74,40,34,20
+90130292,,9,Ciudad de México,CDMX,13,Xochimilco,292,Ampliación San Martín Caballero,R,19.242698,-99.060343,2379,E14A49,21,10,11,9
+90130293,,9,Ciudad de México,CDMX,13,Xochimilco,293,Techachalictic,R,19.216939,-99.065398,2557,E14A49,16,9,7,5
+90130294,,9,Ciudad de México,CDMX,13,Xochimilco,294,Las Cubetas,R,19.224496,-99.080992,2491,E14A49,27,15,12,6
+90130295,,9,Ciudad de México,CDMX,13,Xochimilco,295,San Sebastián,R,19.266088,-99.039528,2231,E14A39,27,13,14,8
+90130296,,9,Ciudad de México,CDMX,13,Xochimilco,296,Yaxahuilizcantitla,R,19.191786,-99.114352,2739,E14A49,-,-,-,-
+90140001,,9,Ciudad de México,CDMX,14,Benito Juárez,1,Benito Juárez,U,19.371992,-99.157853,2238,E14A39,434153,202121,232032,176175
+90150001,,9,Ciudad de México,CDMX,15,Cuauhtémoc,1,Cuauhtémoc,U,19.441646,-99.151884,2230,E14A39,545884,260951,284933,196593
+90160001,,9,Ciudad de México,CDMX,16,Miguel Hidalgo,1,Miguel Hidalgo,U,19.407269,-99.190754,2264,E14A39,414470,195467,219003,146828
+90170001,,9,Ciudad de México,CDMX,17,Venustiano Carranza,1,Venustiano Carranza,U,19.419261,-99.113701,2229,E14A39,443704,210118,233586,135789
