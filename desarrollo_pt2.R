@@ -103,7 +103,7 @@ modelo_arima <- auto.arima(ts_datos)
 forecast_arima <- forecast(modelo_arima, h = 5)
 plot(forecast_arima)
 
-# Crear un modelo VAR con ambos montos de financiamiento y valor de vivienda
+# Crear un modelo VAR con montos de financiamiento y valor de vivienda
 datos_var <- cbind(datos_vivienda_incluyente$vivienda_valor, datos_vivienda_incluyente$monto)
 modelo_var <- VAR(datos_var, p = 2)
 plot(irf(modelo_var))
