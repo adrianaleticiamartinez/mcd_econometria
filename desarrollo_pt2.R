@@ -87,6 +87,8 @@ datos_credito_no_incluyente <- datos_vivienda_no_incluyente %>%
 
 comparativa_creditos <- full_join(datos_credito_incluyente, datos_credito_no_incluyente, by = "fecha")
 
+
+
 # Crear una visualización comparativa
 ggplot(comparativa_creditos, aes(x = fecha)) + 
   geom_line(aes(y = total_creditos_i, colour = "Incluyente")) + 
@@ -94,8 +96,29 @@ ggplot(comparativa_creditos, aes(x = fecha)) +
   labs(title = "Comparativa de Créditos otorgados: Vivienda Incluyente vs No Incluyente", 
        y = "Total de Créditos")
 
+#Análisis vivienda incluyente
+# Calcular desviación estándar
+desviacion_estandar <- sd(datos_vivienda_incluyente$monto)
+print(paste("Desviación estándar del monto de financiamiento para vivienda incluyente:", desviacion_estandar))
+
+# Calcular rango intercuartílico
+rango_intercuartilico <- IQR(datos_vivienda_incluyente$monto)
+print(paste("Rango intercuartílico del monto de financiamiento para vivienda incluyente:", rango_intercuartilico))
+
+# Calcular percentiles
+percentil_25 <- quantile(datos_vivienda_incluyente$monto, 0.25)
+percentil_50 <- quantile(datos_vivienda_incluyente$monto, 0.5)
+percentil_75 <- quantile(datos_vivienda_incluyente$monto, 0.75)
+
+print(paste("Percentil 25 del monto de financiamiento para vivienda incluyente:", percentil_25))
+print(paste("Percentil 50 del monto de financiamiento para vivienda incluyente (mediana):", percentil_50))
+print(paste("Percentil 75 del monto de financiamiento para vivienda incluyente:", percentil_75))
+
+
 # Crear una serie de tiempo con los datos sumarizados
 ts_datos <- ts(resumen_incluyente$total_incluyente, start = c(2013), frequency = 1)
+plot(ts_datos)
+
 
 # Aplicar un modelo ARIMA a la serie de tiempo
 #Para calcular montos de financiamiento promedio
@@ -107,5 +130,14 @@ plot(forecast_arima)
 datos_var <- cbind(datos_vivienda_incluyente$vivienda_valor, datos_vivienda_incluyente$monto)
 modelo_var <- VAR(datos_var, p = 2)
 plot(irf(modelo_var))
+
+# Descomposición de la serie temporal para identificar tendencia, estacionalidad y componente residual
+descomposicion <- stl(ts_datos, s.window = "periodic")
+plot(descomposicion)
+
+# Visualizar componentes individuales
+plot(descomposicion$time.series[, "seasonal"], main = "Estacionalidad")
+plot(descomposicion$time.series[, "trend"], main = "Tendencia")
+plot(descomposicion$time.series[, "remainder"], main = "Componente Residual")
 
 
